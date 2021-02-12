@@ -1,0 +1,14 @@
+Flight_Distance,N,Method,Genus,Species,Mosquito_Strain,Location,Citation,Figure_Table,Notes
+83.4,23,,Aedes,aegypti,,,Verdonschot and Besse Lototskaya 2013,Table 4,"Meta analysis so may be double dipping in some of these other citations… Need to go back through and check . Just want to make a note that there are a lot more citations with some number of loose or measured estimates, but not digging through and extracting all of that. Sometimes measure number re-caught in some binned distances, sometimes measures max etc. List of citations in the overleaf doc, can go back and get those if I want to later"
+75,1,,Aedes,albopictus,,,Verdonschot and Besse Lototskaya 2013,Table 4,See first row
+576.5,3,,Anopheles,sp,,,Verdonschot and Besse Lototskaya 2013,Table 4,See first row
+450.0,1,,Anopheles,sp,,,Verdonschot and Besse Lototskaya 2013,Table 4,See first row
+234.1,2,,Anopheles,sp,,,Verdonschot and Besse Lototskaya 2013,Table 4,See first row
+300,1,,Anopheles,sp,,,Verdonschot and Besse Lototskaya 2013,Table 4,See first row
+846.3,4,,Anopheles,sp,,,Verdonschot and Besse Lototskaya 2013,Table 4,See first row
+420.0,1,,Anopheles,sp,,,Verdonschot and Besse Lototskaya 2013,Table 4,See first row
+1249.0,1,,Anopheles,sp,,,Verdonschot and Besse Lototskaya 2013,Table 4,See first row
+1087.0,1,,Anopheles,sp,,,Verdonschot and Besse Lototskaya 2013,Table 4,See first row
+144.5,3,,Anopheles,sp,,,Verdonschot and Besse Lototskaya 2013,Table 4,See first row
+24.4,1,,Anopheles,sp,,,Verdonschot and Besse Lototskaya 2013,Table 4,See first row
+1000,,,Haemagogus,sp,,,Data from Causey and Kumm 1948 modeled in Childs et al. 2019,See Figure 2F in Childs and Table 1 in Causey and Kumm 1948,

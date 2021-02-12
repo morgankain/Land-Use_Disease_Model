@@ -1,0 +1,110 @@
+Day,Titer_mean,Titer_sd,Host,Dose,Virus,Strain,N,Citation,Figure_Table,Notes
+1,3.057,1.222,Golden Hamster,1000000,Yellow Fever,Jimenez p10,17,Tesh et al. 2001,Figure 1,Triangle + SD
+2,5.409,1.102,Golden Hamster,1000000,Yellow Fever,Jimenez p10,17,Tesh et al. 2001,Figure 1,See first line
+3,7.530,0.874,Golden Hamster,1000000,Yellow Fever,Jimenez p10,17,Tesh et al. 2001,Figure 1,See first line
+4,5.203,1.099,Golden Hamster,1000000,Yellow Fever,Jimenez p10,17,Tesh et al. 2001,Figure 1,See first line
+5,2.824,1.753,Golden Hamster,1000000,Yellow Fever,Jimenez p10,17,Tesh et al. 2001,Figure 1,See first line
+6,0.485,1.295,Golden Hamster,1000000,Yellow Fever,Jimenez p10,17,Tesh et al. 2001,Figure 1,See first line
+7,0,0,Golden Hamster,1000000,Yellow Fever,Jimenez p10,17,Tesh et al. 2001,Figure 1,See first line
+1,0.062,,Rhesus Monkey,100000000,Yellow Fever,Asibi,26,Smetana 1962,Figure 1,Serum (black circles). No SD given
+2,3.370,,Rhesus Monkey,100000000,Yellow Fever,Asibi,26,Smetana 1962,Figure 1,See first line
+3,5.089,,Rhesus Monkey,100000000,Yellow Fever,Asibi,26,Smetana 1962,Figure 1,See first line
+4,7.301,,Rhesus Monkey,100000000,Yellow Fever,Asibi,26,Smetana 1962,Figure 1,See first line
+5,7.110,,Rhesus Monkey,100000000,Yellow Fever,Asibi,26,Smetana 1962,Figure 1,See first line
+6,0.320,,Rhesus Monkey,100000000,Yellow Fever,Asibi,26,Smetana 1962,Figure 1,See first line
+-3.000,7.466,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,"Natural infection in humans, not experimental"
+-2.000,5.926,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+-1.000,8.832,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+-1.000,8.687,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+-1.000,7.832,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+-1.000,7.592,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+-1.000,4.227,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+-1.000,4.059,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+0.000,3.215,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+0.000,4.956,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+0.000,6.741,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+0.000,6.741,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+0.000,6.861,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+0.000,6.856,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+0.000,7.006,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+0.000,7.516,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+0.000,7.691,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+0.000,7.966,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+0.000,8.265,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+0.000,8.306,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+0.000,9.000,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+0.000,9.263,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+0.000,9.427,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+1.000,7.587,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+2.000,10.048,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+2.000,8.309,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+2.000,7.916,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+2.000,6.959,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+2.000,7.449,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+2.000,6.289,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+2.000,5.213,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+3.000,9.283,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+3.000,8.311,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+3.000,7.993,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+3.000,7.680,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+3.000,7.562,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+3.000,7.311,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+3.000,7.226,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+3.000,7.197,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+3.000,6.031,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+4.000,3.210,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+4.000,4.186,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+4.000,4.282,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+4.000,4.252,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+4.000,4.534,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+4.000,4.710,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+4.000,5.544,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+4.000,6.290,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+4.000,6.326,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+4.000,6.373,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+4.000,6.641,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+4.000,7.157,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+4.000,8.033,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+4.000,8.154,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+4.000,8.902,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+4.000,9.021,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+4.000,9.139,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+5.000,8.677,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+5.000,7.980,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+5.000,7.252,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+5.000,6.916,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+5.000,5.875,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+5.000,5.597,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+5.000,5.135,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+5.000,4.463,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+5.000,4.337,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+5.000,4.257,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+5.000,4.182,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+5.000,4.156,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+5.000,3.129,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+5.000,3.272,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+6.000,6.976,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+6.000,5.889,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+6.000,5.889,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+6.000,5.141,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+6.000,4.235,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+6.000,3.664,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+7.000,5.831,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+7.000,5.041,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+7.000,3.975,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+7.000,2.890,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+7.000,2.529,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+8.000,4.836,,Human,,Dengue,Various,1,Duong et al. 2015,Figure 1A,See first line
+1,0.1,,Human,,Malaria,,,Vallejo et al. 2016,Figure 1,"Piecing together a pseudo curve from semi-incomplete data. Basically there is a plot for the . Also, it is a bit unclear if these are gametocytes. The text talks about them like they are gametocytes but the graph calls them parasites which is confusing because “parasites” are referred to in other papers to include all stages. This paper is labeling the “early” stage as lasting 5 days but doesn’t give a time frame to the acute phase. In the acute phase the data presented are just an average. Will need to make an assumption about the time course. Calling day 8 from the paper day 1, taking the data from each of the data points, then extending the average acute for a week. These numbers don’t really mesh well with the text though, which states “acute and asymptomatic infections were 425.6 (1–6015), 5096 (459–22,800) and 13.93 (1–43), respectively“ so hard to know what to do exactly here (first off means and medians pretty different for these distributions)"
+2,13.4,,Human,,Malaria,,,Vallejo et al. 2016,Figure 1,See first line
+3,1.4,,Human,,Malaria,,,Vallejo et al. 2016,Figure 1,See first line
+4,35,,Human,,Malaria,,,Vallejo et al. 2016,Figure 1,See first line
+5,151,,Human,,Malaria,,,Vallejo et al. 2016,Figure 1,See first line
+6,160,,Human,,Malaria,,,Vallejo et al. 2016,Figure 1,See first line
+7,5096,,Human,,Malaria,,,Vallejo et al. 2016,Figure 1,See first line
+8,5096,,Human,,Malaria,,,Vallejo et al. 2016,Figure 1,See first line
+9,5096,,Human,,Malaria,,,Vallejo et al. 2016,Figure 1,See first line
+10,5096,,Human,,Malaria,,,Vallejo et al. 2016,Figure 1,See first line
+11,5096,,Human,,Malaria,,,Vallejo et al. 2016,Figure 1,See first line
+12,5096,,Human,,Malaria,,,Vallejo et al. 2016,Figure 1,See first line
+13,5096,,Human,,Malaria,,,Vallejo et al. 2016,Figure 1,See first line

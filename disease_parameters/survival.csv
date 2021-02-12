@@ -1,0 +1,58 @@
+Daily_Survival_Probability,N,Month,Genus,Species,Mosquito_Strain,Location,Citation,Figure_Table,Notes
+0.524,70,August,Anopheles,darlingi,,Roraima Brazil,de Barros et al. 2011,Table 3,I grabbed these data pretty quickly so lack a bit of clarity on the sample size and the calculation of survival from proportion parous or not. See table 3
+0.571,78,November,Anopheles,darlingi,,Roraima Brazil,de Barros et al. 2011,Table 3,See first line
+0.911,144,January,Anopheles,darlingi,,Roraima Brazil,de Barros et al. 2011,Table 3,See first line
+0.742,97,March,Anopheles,darlingi,,Roraima Brazil,de Barros et al. 2011,Table 3,See first line
+0.812,113,May,Anopheles,darlingi,,Roraima Brazil,de Barros et al. 2011,Table 3,See first line
+0.557,254,July,Anopheles,darlingi,,Roraima Brazil,de Barros et al. 2011,Table 3,See first line
+0.682,16,,Anopheles,albimanus,,,Kiszewski et al. 2004,Table 3,Estimates and references given in Table 3
+0.803,1,,Anopheles,anthropophagus,,,Kiszewski et al. 2004,Table 3,See first line
+0.776,3,,Anopheles,aquasalis,,,Kiszewski et al. 2004,Table 3,See first line
+0.790,32,,Anopheles,arabiesis,,,Kiszewski et al. 2004,Table 3,See first line
+0.966,8,,Anopheles,atroparvus,,,Kiszewski et al. 2004,Table 3,See first line
+0.980,9,,Anopheles,barbirostris,,,Kiszewski et al. 2004,Table 3,See first line
+0.831,55,,Anopheles,culicifacies,,,Kiszewski et al. 2004,Table 3,See first line
+0.804,2,,Anopheles,darlingi,,,Kiszewski et al. 2004,Table 3,See first line
+0.916,18,,Anopheles,dirus,,,Kiszewski et al. 2004,Table 3,See first line
+0.829,19,,Anopheles,farauti,,,Kiszewski et al. 2004,Table 3,See first line
+0.961,9,,Anopheles,flavirostris,,,Kiszewski et al. 2004,Table 3,See first line
+0.735,27,,Anopheles,fluviatilis,,,Kiszewski et al. 2004,Table 3,See first line
+0.740,8,,Anopheles,freeborni,,,Kiszewski et al. 2004,Table 3,See first line
+0.690,30,,Anopheles,funestus,,,Kiszewski et al. 2004,Table 3,See first line
+0.860,36,,Anopheles,gambiae ss,,,Kiszewski et al. 2004,Table 3,See first line
+0.850,17,,Anopheles,labranchiae,,,Kiszewski et al. 2004,Table 3,See first line
+0.800,10,,Anopheles,maculatus,,,Kiszewski et al. 2004,Table 3,See first line
+0.860,6,,Anopheles,melas,,,Kiszewski et al. 2004,Table 3,See first line
+0.881,14,,Anopheles,messeae,,,Kiszewski et al. 2004,Table 3,See first line
+0.876,12,,Anopheles,minimus,,,Kiszewski et al. 2004,Table 3,See first line
+0.865,15,,Anopheles,multicolor,,,Kiszewski et al. 2004,Table 3,See first line
+0.766,11,,Anopheles,muneztovari,,,Kiszewski et al. 2004,Table 3,See first line
+0.735,17,,Anopheles,pharoahensis,,,Kiszewski et al. 2004,Table 3,See first line
+0.880,13,,Anopheles,pseudopunctipennis,,,Kiszewski et al. 2004,Table 3,See first line
+0.780,12,,Anopheles,pulcherrimus,,,Kiszewski et al. 2004,Table 3,See first line
+0.855,7,,Anopheles,punctulatus sl,,,Kiszewski et al. 2004,Table 3,See first line
+0.966,27,,Anopheles,quadrimaculatus,,,Kiszewski et al. 2004,Table 3,See first line
+0.858,47,,Anopheles,sacharovi,,,Kiszewski et al. 2004,Table 3,See first line
+0.950,18,,Anopheles,sergentii,,,Kiszewski et al. 2004,Table 3,See first line
+0.857,21,,Anopheles,sinensis,,,Kiszewski et al. 2004,Table 3,See first line
+0.810,37,,Anopheles,stephensi,,,Kiszewski et al. 2004,Table 3,See first line
+0.945,18,,Anopheles,superpictus,,,Kiszewski et al. 2004,Table 3,See first line
+0.859,17,,Anopheles,sundaicus,,,Kiszewski et al. 2004,Table 3,See first line
+0.89,2660,,Aedes,albopictus,,Missouri USA,Niebylski and Craig 1994,Abstract,Paper not available but this much info was available in the abstract
+0.885,225,,Aedes,aegypti,0.807,Australia,Muir and Kay 1994,Text,"Used the average of the survival of the two differently marked mosquitoes “an estimated daily survival of 0.91 and 0.86 for the blue and pink-marked females, respectively,” (not a weighted mean by sample size or w/e just a raw mean of 0.91 and 0.86). A bit unclear about the sample size I am giving here. This is the total number of recaptured females"
+0.93,,,Aedes,albopictus,,Reunion Island ,Delatte et al. 2009,Text,Unclear about sample size. Don’t plan to fit any sort of sample size or sd weighted model though so w/e
+0.716666666666667,,Wet,Aedes,aegypti,,Tubiacanga Rio de Janeiro Brazil,de Freitas et al. 2007,Table 2,Gives estimates for the dry and wet season in two different locations. Took mean of the three cohorts (little variation among them). Using the exponential model estimates
+0.73,,Dry,Aedes,aegypti,,Tubiacanga Rio de Janeiro Brazil,de Freitas et al. 2007,Table 2,See first line
+0.84,,Wet,Aedes,aegypti,,Favela do Amorim Rio de Janeiro Brazil,de Freitas et al. 2007,Table 2,See first line
+0.863333333333333,,Dry,Aedes,aegypti,,Favela do Amorim Rio de Janeiro Brazil,de Freitas et al. 2007,Table 2,See first line
+0.948453608247423,66,,Haemagogus,Janthinomys,,,Data taken from Childs et al. 2019 who gathered data from a number of papers.,See github linked at the end of the pdf,Leaving out temperature and converting from longevity_days to daily with 1-1/x
+0.945355191256831,128,,Haemagogus,Janthinomys,,,Data taken from Childs et al. 2019 who gathered data from a number of papers.,See github linked at the end of the pdf,See first line
+0.931034482758621,154,,Haemagogus,Janthinomys,,,Data taken from Childs et al. 2019 who gathered data from a number of papers.,See github linked at the end of the pdf,See first line
+0.927536231884058,512,,Haemagogus,Janthinomys,,,Data taken from Childs et al. 2019 who gathered data from a number of papers.,See github linked at the end of the pdf,See first line
+0.791666666666667,132,,Haemagogus,Janthinomys,,,Data taken from Childs et al. 2019 who gathered data from a number of papers.,See github linked at the end of the pdf,See first line
+0.974293059125964,,,Sabethes,chloropterus,,,Data taken from Childs et al. 2019 who gathered data from a number of papers.,See github linked at the end of the pdf,See first line
+0.947368421052632,1,,Haemagogus,janthinomys,,,Data taken from Childs et al. 2019 who gathered data from a number of papers.,See github linked at the end of the pdf,See first line
+0.962962962962963,1,,Haemagogus,janthinomys,,,Data taken from Childs et al. 2019 who gathered data from a number of papers.,See github linked at the end of the pdf,See first line
+0.977272727272727,1,,Sabethes,chloropterus,,,Data taken from Childs et al. 2019 who gathered data from a number of papers.,See github linked at the end of the pdf,See first line
+0.961538461538462,1,,Sabethes,chloropterus,,,Data taken from Childs et al. 2019 who gathered data from a number of papers.,See github linked at the end of the pdf,See first line
+0.952380952380952,1,,Haemagogus,leucocelaenus,,,Data taken from Childs et al. 2019 who gathered data from a number of papers.,See github linked at the end of the pdf,See first line

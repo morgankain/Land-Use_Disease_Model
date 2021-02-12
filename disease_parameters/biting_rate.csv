@@ -1,0 +1,3 @@
+Biting_Rate,N,Method,Genus,Species,Mosquito_Strain,Location,Citation,Figure_Table,Notes
+,,,,,,,Vittor et al. 2006,Table 1,"This biting rate conflates abundance with actual physiological response, so far from optimal. What I really want is physiological biting rate of some kind"
+,,,,,,,Mordecai et al. 2013,Supplement,Taking average biting rate across the Briere assuming all temperatures between X and Y are experienced with equal probability

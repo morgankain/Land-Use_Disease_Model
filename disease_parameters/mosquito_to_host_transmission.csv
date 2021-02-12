@@ -1,0 +1,224 @@
+Day,Titer,N_Tested,N_Transmitting,Genus,Species,Mosquito_Strain,Virus,Serotype,Virus_Strain,Temperature,Citation,Figure_Table,Notes
+14,8.9,24,21,Aedes,albopictus,Houston,Dengue,1,See Table 1,,Mitchell et al. 1987,Table 3,Transmission conditional on infected unclear. 
+14,8.4,23,17,Aedes,albopictus,Houston,Dengue,2,See Table 1,,Mitchell et al. 1987,Table 3,See first line
+14,8.1,15,8,Aedes,albopictus,Houston,Dengue,3,See Table 1,,Mitchell et al. 1987,Table 3,See first line
+14,7.9,19,8,Aedes,albopictus,Houston,Dengue,4,See Table 1,,Mitchell et al. 1987,Table 3,See first line
+14,7.3,44,15,Aedes,aegypti,Rexville,Yellow Fever,,BA55,,Miller et al. 1989,Table 2,See first line
+14,5.9,53,9,Aedes,aegypti,Rexville,Yellow Fever,,BA55,,Miller et al. 1989,Table 2,See first line
+14,7.9,53,1,Aedes,aegypti,Ogombosho,Yellow Fever,,BA55,,Miller et al. 1989,Table 2,See first line
+14,7.3,39,0,Aedes,aegypti,Ogombosho,Yellow Fever,,BA55,,Miller et al. 1989,Table 2,See first line
+14,7.9,50,2,Aedes,aegypti,Benue State,Yellow Fever,,BA55,,Miller et al. 1989,Table 2,See first line
+14,7.3,49,0,Aedes,aegypti,Benue State,Yellow Fever,,BA55,,Miller et al. 1989,Table 2,See first line
+14,7.5,139,103,Aedes,aegypti,Cancun,Dengue,2,JAM1409,,Bennett et al. 2002,Figure 5,Midgut infection. Number tested a bit unclear. Number taken from Table 1
+14,6.5,139,52,Aedes,aegypti,Cancun,Dengue,2,JAM1409,,Bennett et al. 2002,Figure 5,See first line
+14,5.5,139,20,Aedes,aegypti,Cancun,Dengue,2,JAM1409,,Bennett et al. 2002,Figure 5,See first line
+14,4.5,139,0,Aedes,aegypti,Cancun,Dengue,2,JAM1409,,Bennett et al. 2002,Figure 5,See first line
+14,7.5,149,85,Aedes,aegypti,Merida,Dengue,2,JAM1409,,Bennett et al. 2002,Figure 5,See first line
+14,6.5,149,40,Aedes,aegypti,Merida,Dengue,2,JAM1409,,Bennett et al. 2002,Figure 5,See first line
+14,5.5,149,20,Aedes,aegypti,Merida,Dengue,2,JAM1409,,Bennett et al. 2002,Figure 5,See first line
+14,4.5,149,0,Aedes,aegypti,Merida,Dengue,2,JAM1409,,Bennett et al. 2002,Figure 5,See first line
+14,7.5,175,127,Aedes,aegypti,Villahermosa,Dengue,2,JAM1409,,Bennett et al. 2002,Figure 5,See first line
+14,6.5,175,50,Aedes,aegypti,Villahermosa,Dengue,2,JAM1409,,Bennett et al. 2002,Figure 5,See first line
+14,5.5,175,29,Aedes,aegypti,Villahermosa,Dengue,2,JAM1409,,Bennett et al. 2002,Figure 5,See first line
+14,4.5,175,0,Aedes,aegypti,Villahermosa,Dengue,2,JAM1409,,Bennett et al. 2002,Figure 5,See first line
+14,7.5,99,66,Aedes,aegypti,Tuscon,Dengue,2,JAM1409,,Bennett et al. 2002,Figure 5,See first line
+14,6.5,99,50,Aedes,aegypti,Tuscon,Dengue,2,JAM1409,,Bennett et al. 2002,Figure 5,See first line
+14,5.5,99,34,Aedes,aegypti,Tuscon,Dengue,2,JAM1409,,Bennett et al. 2002,Figure 5,See first line
+14,4.5,99,0,Aedes,aegypti,Tuscon,Dengue,2,JAM1409,,Bennett et al. 2002,Figure 5,See first line
+14,7.5,151,125,Aedes,aegypti,Culiacan,Dengue,2,JAM1409,,Bennett et al. 2002,Figure 5,See first line
+14,6.5,151,106,Aedes,aegypti,Culiacan,Dengue,2,JAM1409,,Bennett et al. 2002,Figure 5,See first line
+14,5.5,151,50,Aedes,aegypti,Culiacan,Dengue,2,JAM1409,,Bennett et al. 2002,Figure 5,See first line
+14,4.5,151,0,Aedes,aegypti,Culiacan,Dengue,2,JAM1409,,Bennett et al. 2002,Figure 5,See first line
+14,7.5,109,98,Aedes,aegypti,Chetumal,Dengue,2,JAM1409,,Bennett et al. 2002,Figure 5,See first line
+14,6.5,109,96,Aedes,aegypti,Chetumal,Dengue,2,JAM1409,,Bennett et al. 2002,Figure 5,See first line
+14,5.5,109,67,Aedes,aegypti,Chetumal,Dengue,2,JAM1409,,Bennett et al. 2002,Figure 5,See first line
+14,4.5,109,0,Aedes,aegypti,Chetumal,Dengue,2,JAM1409,,Bennett et al. 2002,Figure 5,See first line
+14,7.5,568,472,Aedes,aegypti,Puerto Rico,Dengue,2,JAM1409,,Bennett et al. 2002,Figure 5,See first line
+14,6.5,568,408,Aedes,aegypti,Puerto Rico,Dengue,2,JAM1409,,Bennett et al. 2002,Figure 5,See first line
+14,5.5,568,215,Aedes,aegypti,Puerto Rico,Dengue,2,JAM1409,,Bennett et al. 2002,Figure 5,See first line
+14,4.5,568,0,Aedes,aegypti,Puerto Rico,Dengue,2,JAM1409,,Bennett et al. 2002,Figure 5,See first line
+14,7.5,196,0,Aedes,aegypti,Miguel Aleman,Dengue,2,JAM1409,,Bennett et al. 2002,Figure 5,See first line
+14,6.5,196,98,Aedes,aegypti,Miguel Aleman,Dengue,2,JAM1409,,Bennett et al. 2002,Figure 5,See first line
+14,5.5,196,81,Aedes,aegypti,Miguel Aleman,Dengue,2,JAM1409,,Bennett et al. 2002,Figure 5,See first line
+14,4.5,196,28,Aedes,aegypti,Miguel Aleman,Dengue,2,JAM1409,,Bennett et al. 2002,Figure 5,See first line
+14,7.5,171,0,Aedes,aegypti,Nuevo Laredo,Dengue,2,JAM1409,,Bennett et al. 2002,Figure 5,See first line
+14,6.5,171,103,Aedes,aegypti,Nuevo Laredo,Dengue,2,JAM1409,,Bennett et al. 2002,Figure 5,See first line
+14,5.5,171,45,Aedes,aegypti,Nuevo Laredo,Dengue,2,JAM1409,,Bennett et al. 2002,Figure 5,See first line
+14,4.5,171,21,Aedes,aegypti,Nuevo Laredo,Dengue,2,JAM1409,,Bennett et al. 2002,Figure 5,See first line
+15,8.5,10,2,Aedes,aegypti,Santa Cruz,Yellow Fever,,CENETROP 322,,Mutebi et al. 2004,Table 1,Transmission conditional on infected unclear. 
+15,8.7,31,11,Aedes,aegypti,Santa Cruz,Yellow Fever,,Jimenez,,Mutebi et al. 2004,Table 1,See first line
+15,7.3,26,0,Aedes,aegypti,Santa Cruz,Yellow Fever,,Asibi,,Mutebi et al. 2004,Table 1,See first line
+15,8.5,30,24,Aedes,aegypti,REXD,Yellow Fever,,CENETROP 322,,Mutebi et al. 2004,Table 1,See first line
+15,8.7,30,22,Aedes,aegypti,REXD,Yellow Fever,,Jimenez,,Mutebi et al. 2004,Table 1,See first line
+15,7.3,30,12,Aedes,aegypti,REXD,Yellow Fever,,Asibi,,Mutebi et al. 2004,Table 1,See first line
+19,9.5,44,9,Aedes,furcifer,Skukuza,Yellow Fever,,TVP1617,,Jupp and Kemp 2002,Table 1,Head Squash Infection Rate (virus in head)
+19,9.5,40,1,Aedes,cordellieri,Pafuri and Shingwedzi,Yellow Fever,,TVP1617,,Jupp and Kemp 2002,Table 1,See first line
+20,9.5,48,7,Aedes,aegypti,Durban,Yellow Fever,,TVP1617,,Jupp and Kemp 2002,Table 1,See first line
+20,9.5,38,4,Aedes,aegypti,Skukuza,Yellow Fever,,TVP1617,,Jupp and Kemp 2002,Table 1,See first line
+20,7.5,40,0,Aedes,aegypti,Pafuri,Yellow Fever,,TVP1617,,Jupp and Kemp 2002,Table 1,See first line
+20,7.5,32,1,Aedes,aegypti,Acapulco,Yellow Fever,,TVP1617,,Jupp and Kemp 2002,Table 1,See first line
+25,7,9,1,Aedes,simpsoni,Skukuza,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 2,See first line
+25,7,26,1,Aedes,simpsoni,Durban,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 2,See first line
+20,7.1,17,5,Aedes,simpsoni,Durban,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 2,See first line
+18,7.9,28,0,Aedes,simpsoni,Durban,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 2,See first line
+25,7.9,28,0,Aedes,simpsoni,Durban,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 2,See first line
+25,7,13,0,Aedes,aegypti,Durban,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 2,See first line
+15,7.7,15,1,Aedes,aegypti,Durban,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 2,See first line
+17,7.6,30,0,Aedes,aegypti,Durban,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 2,See first line
+18,7.9,25,0,Aedes,aegypti,Durban,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 2,See first line
+25,7.9,20,1,Aedes,aegypti,Durban,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 2,See first line
+20,8,10,1,Aedes,aegypti,Skukuza,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 2,See first line
+15,8,22,1,Aedes,aegypti,Skukuza,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 2,See first line
+15,7.7,38,0,Aedes,aegypti,Skukuza,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 2,See first line
+16,7.4,30,0,Aedes,aegypti,Pafuri,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 2,See first line
+15,8,15,0,Aedes,aegypti,Pafuri,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 2,See first line
+20,8,17,1,Aedes,aegypti,Pafuri,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 2,See first line
+25,8,14,3,Aedes,aegypti,Pafuri,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 2,See first line
+18,8,53,0,Aedes,aegypti,Pafuri,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 2,See first line
+16,7.4,30,2,Aedes,aegypti,Richards Bay,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 2,See first line
+15,8,33,3,Aedes,aegypti,Richards Bay,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 2,See first line
+20,8,38,5,Aedes,aegypti,Richards Bay,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 2,See first line
+25,8,36,4,Aedes,aegypti,Richards Bay,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 2,See first line
+18,8,58,1,Aedes,aegypti,Richards Bay,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 2,See first line
+17,7.6,30,1,Aedes,aegypti,Mica,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 2,See first line
+20,7.6,22,1,Aedes,aegypti,Mica,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 2,See first line
+25,7.6,23,1,Aedes,aegypti,Mica,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 2,See first line
+15,7.7,12,0,Aedes,aegypti,Acapulco,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 2,See first line
+17,7.6,30,0,Aedes,aegypti,Acapulco,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 2,See first line
+20,7.6,22,0,Aedes,aegypti,Acapulco,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 2,See first line
+25,7.6,22,0,Aedes,aegypti,Acapulco,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 2,See first line
+18,8.0,22,0,Aedes,aegypti,Dequincy,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 2,See first line
+18,8.0,28,1,Aedes,aegypti,Puerto Rico,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 2,See first line
+15,9,29,20,Aedes,aegypti,Richards Bay,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 3,See first line
+20,9,30,20,Aedes,aegypti,Richards Bay,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 3,See first line
+26,9,30,27,Aedes,aegypti,Richards Bay,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 3,See first line
+20,7.1,30,1,Aedes,aegypti,Richards Bay,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 3,See first line
+20,7.1,30,1,Aedes,aegypti,Richards Bay,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 3,See first line
+20,3.8,23,0,Aedes,aegypti,Richards Bay,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 3,See first line
+20,3.8,30,0,Aedes,aegypti,Richards Bay,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 3,See first line
+15,9,30,25,Aedes,aegypti,Puerto Rico,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 3,See first line
+20,9,30,28,Aedes,aegypti,Puerto Rico,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 3,See first line
+26,9,30,29,Aedes,aegypti,Puerto Rico,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 3,See first line
+20,7.1,30,0,Aedes,aegypti,Puerto Rico,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 3,See first line
+20,7.1,29,1,Aedes,aegypti,Puerto Rico,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 3,See first line
+20,3.8,30,0,Aedes,aegypti,Durban,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 3,See first line
+20,3.8,30,0,Aedes,aegypti,Durban,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 3,See first line
+20,3.8,30,0,Aedes,aegypti,Pafuri,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 3,See first line
+20,3.8,30,0,Aedes,aegypti,Pafuri,Yellow Fever,,BC7914,,Jupp and Kemp 2002,Table 3,See first line
+12.5,7.4,39,11,Aedes,aegypti,Santos,Yellow Fever,,MG2001,,Johnson et al. 2002,Table 1,Range of days (11-14) and Titer (7-7.8)
+12.5,7.4,59,7,Aedes,aegypti,Vanuatu,Yellow Fever,,MG2001,,Johnson et al. 2002,Table 1,See first line
+12.5,7.4,26,3,Aedes,albopictus,Passos,Yellow Fever,,MG2001,,Johnson et al. 2002,Table 1,See first line
+21,6.3,22,5,Aedes,aegypti,Santos,Yellow Fever,,MG2001,,Johnson et al. 2002,Table 2,See first line
+21,6.3,12,2,Aedes,aegypti,Vanuatu,Yellow Fever,,MG2001,,Johnson et al. 2002,Table 2,See first line
+14,8.3,334,36,Aedes,aegypti,Dakar,Yellow Fever,,Unknown,,Tabachink et al. 1985,Table 2,"Infectious dose ranged from 7.8-8.8, day 14. Infected heads"
+14,8.3,30,2,Aedes,aegypti,NGoye,Yellow Fever,,Unknown,,Tabachink et al. 1985,Table 2,See first line
+14,8.3,11,3,Aedes,aegypti,Diabugu and Sare Hamadi,Yellow Fever,,Unknown,,Tabachink et al. 1985,Table 2,See first line
+14,8.3,59,5,Aedes,aegypti,Kampala,Yellow Fever,,Unknown,,Tabachink et al. 1985,Table 2,See first line
+14,8.3,107,36,Aedes,aegypti,Kombeni,Yellow Fever,,Unknown,,Tabachink et al. 1985,Table 2,See first line
+14,8.3,184,104,Aedes,aegypti,Kwa Dzivo,Yellow Fever,,Unknown,,Tabachink et al. 1985,Table 2,See first line
+14,8.3,222,65,Aedes,aegypti,Majengo,Yellow Fever,,Unknown,,Tabachink et al. 1985,Table 2,See first line
+14,8.3,84,19,Aedes,aegypti,Bangalore,Yellow Fever,,Unknown,,Tabachink et al. 1985,Table 2,See first line
+14,8.3,39,8,Aedes,aegypti,Colombo,Yellow Fever,,Unknown,,Tabachink et al. 1985,Table 2,See first line
+14,8.3,19,6,Aedes,aegypti,Djakarta,Yellow Fever,,Unknown,,Tabachink et al. 1985,Table 2,See first line
+14,8.3,123,37,Aedes,aegypti,Karachi,Yellow Fever,,Unknown,,Tabachink et al. 1985,Table 2,See first line
+14,8.3,350,97,Aedes,aegypti,Amphur,Yellow Fever,,Unknown,,Tabachink et al. 1985,Table 2,See first line
+14,8.3,49,11,Aedes,aegypti,Walu Bay,Yellow Fever,,Unknown,,Tabachink et al. 1985,Table 2,See first line
+14,8.3,119,35,Aedes,aegypti,Austin,Yellow Fever,,Unknown,,Tabachink et al. 1985,Table 2,See first line
+14,8.3,19,3,Aedes,aegypti,Galveston,Yellow Fever,,Unknown,,Tabachink et al. 1985,Table 2,See first line
+14,8.3,34,7,Aedes,aegypti,Houston,Yellow Fever,,Unknown,,Tabachink et al. 1985,Table 2,See first line
+14,8.3,13,2,Aedes,aegypti,Weslaco,Yellow Fever,,Unknown,,Tabachink et al. 1985,Table 2,See first line
+14,8.3,198,39,Aedes,aegypti,Victoria,Yellow Fever,,Unknown,,Tabachink et al. 1985,Table 2,See first line
+14,8.3,33,4,Aedes,aegypti,Abbeville,Yellow Fever,,Unknown,,Tabachink et al. 1985,Table 2,See first line
+14,8.3,23,6,Aedes,aegypti,Beaumont,Yellow Fever,,Unknown,,Tabachink et al. 1985,Table 2,See first line
+14,8.3,34,14,Aedes,aegypti,Vero Beach,Yellow Fever,,Unknown,,Tabachink et al. 1985,Table 2,See first line
+14,8.3,258,82,Aedes,aegypti,Escuinta,Yellow Fever,,Unknown,,Tabachink et al. 1985,Table 2,See first line
+14,8.3,24,11,Aedes,aegypti,Malaga,Yellow Fever,,Unknown,,Tabachink et al. 1985,Table 2,See first line
+14,8.3,99,21,Aedes,aegypti,Santa Cruz,Yellow Fever,,Unknown,,Tabachink et al. 1985,Table 2,See first line
+14,8.3,173,72,Aedes,aegypti,Trinidad,Yellow Fever,,Unknown,,Tabachink et al. 1985,Table 2,See first line
+14,8.3,50,17,Aedes,aegypti,Arecibo,Yellow Fever,,Unknown,,Tabachink et al. 1985,Table 2,See first line
+14,8.3,44,17,Aedes,aegypti,Limestone Bay,Yellow Fever,,Unknown,,Tabachink et al. 1985,Table 2,See first line
+14,8.3,30,16,Aedes,aegypti,Plymouth,Yellow Fever,,Unknown,,Tabachink et al. 1985,Table 2,See first line
+10,3.2,6,1,Aedes,aegypti,Santo Domingo,Yellow Fever,,French viscerotropic,,Aitken et al. 1977,Table 1,"No notes, straighforward data collection, see Table 1"
+14,3.2,3,1,Aedes,aegypti,Santo Domingo,Yellow Fever,,French viscerotropic,,Aitken et al. 1977,Table 1,See first line
+17,3.2,2,2,Aedes,aegypti,Santo Domingo,Yellow Fever,,French viscerotropic,,Aitken et al. 1977,Table 1,See first line
+10,3.2,7,0,Aedes,aegypti,Amphur,Yellow Fever,,French viscerotropic,,Aitken et al. 1977,Table 1,See first line
+14,3.2,6,1,Aedes,aegypti,Amphur,Yellow Fever,,French viscerotropic,,Aitken et al. 1977,Table 1,See first line
+17,3.2,9,5,Aedes,aegypti,Amphur,Yellow Fever,,French viscerotropic,,Aitken et al. 1977,Table 1,See first line
+10,3.2,5,0,Aedes,aegypti,Kampala,Yellow Fever,,French viscerotropic,,Aitken et al. 1977,Table 1,See first line
+14,3.2,2,0,Aedes,aegypti,Kampala,Yellow Fever,,French viscerotropic,,Aitken et al. 1977,Table 1,See first line
+17,3.2,5,0,Aedes,aegypti,Kampala,Yellow Fever,,French viscerotropic,,Aitken et al. 1977,Table 1,See first line
+12,7.3,8,7,Aedes,aegypti,Santo Domingo,Yellow Fever,,French viscerotropic,,Aitken et al. 1977,Table 1,See first line
+15,7.3,7,7,Aedes,aegypti,Santo Domingo,Yellow Fever,,French viscerotropic,,Aitken et al. 1977,Table 1,See first line
+12,7.3,9,2,Aedes,aegypti,Amphur,Yellow Fever,,French viscerotropic,,Aitken et al. 1977,Table 1,See first line
+15,7.3,7,6,Aedes,aegypti,Amphur,Yellow Fever,,French viscerotropic,,Aitken et al. 1977,Table 1,See first line
+15,7.3,4,2,Aedes,aegypti,Kampala,Yellow Fever,,French viscerotropic,,Aitken et al. 1977,Table 1,See first line
+18,7.3,4,2,Aedes,aegypti,Kampala,Yellow Fever,,French viscerotropic,,Aitken et al. 1977,Table 1,See first line
+20,7.3,11,7,Aedes,aegypti,Kampala,Yellow Fever,,French viscerotropic,,Aitken et al. 1977,Table 1,See first line
+11,7.4,8,5,Aedes,aegypti,Santo Domingo,Yellow Fever,,French viscerotropic,,Aitken et al. 1977,Table 1,See first line
+13,7.4,7,6,Aedes,aegypti,Santo Domingo,Yellow Fever,,French viscerotropic,,Aitken et al. 1977,Table 1,See first line
+15,7.4,6,5,Aedes,aegypti,Santo Domingo,Yellow Fever,,French viscerotropic,,Aitken et al. 1977,Table 1,See first line
+18,7.4,2,2,Aedes,aegypti,Santo Domingo,Yellow Fever,,French viscerotropic,,Aitken et al. 1977,Table 1,See first line
+11,7.4,7,1,Aedes,aegypti,Amphur,Yellow Fever,,French viscerotropic,,Aitken et al. 1977,Table 1,See first line
+13,7.4,8,6,Aedes,aegypti,Amphur,Yellow Fever,,French viscerotropic,,Aitken et al. 1977,Table 1,See first line
+16,7.4,8,6,Aedes,aegypti,Amphur,Yellow Fever,,French viscerotropic,,Aitken et al. 1977,Table 1,See first line
+13,7.4,7,5,Aedes,aegypti,Kampala,Yellow Fever,,French viscerotropic,,Aitken et al. 1977,Table 1,See first line
+16,7.4,1,0,Aedes,aegypti,Kampala,Yellow Fever,,French viscerotropic,,Aitken et al. 1977,Table 1,See first line
+17,7.4,8,5,Aedes,aegypti,Kampala,Yellow Fever,,French viscerotropic,,Aitken et al. 1977,Table 1,See first line
+18,7.4,2,2,Aedes,aegypti,Kampala,Yellow Fever,,French viscerotropic,,Aitken et al. 1977,Table 1,See first line
+20,7.4,4,3,Aedes,aegypti,Kampala,Yellow Fever,,French viscerotropic,,Aitken et al. 1977,Table 1,See first line
+7,6,6,2,Aedes,aegypti,Goiania,Yellow Fever,,74018 1D,,Cuoto Lima et al. 2017,Figure 2,Thorax and abdomen vs head. See first line in citation for complete notes
+14,6,16,11,Aedes,aegypti,Goiania,Yellow Fever,,74018 1D,,Cuoto Lima et al. 2017,Figure 2,See first line
+21,6,13,12,Aedes,aegypti,Goiania,Yellow Fever,,74018 1D,,Cuoto Lima et al. 2017,Figure 2,See first line
+7,6,5,1,Aedes,aegypti,Goiania,Yellow Fever,,4408 1E,,Cuoto Lima et al. 2017,Figure 2,See first line
+14,6,15,11,Aedes,aegypti,Goiania,Yellow Fever,,4408 1E,,Cuoto Lima et al. 2017,Figure 2,See first line
+21,6,2,2,Aedes,aegypti,Goiania,Yellow Fever,,4408 1E,,Cuoto Lima et al. 2017,Figure 2,See first line
+7,6,6,2,Aedes,aegypti,Goiania,Yellow Fever,,S79,,Cuoto Lima et al. 2017,Figure 2,See first line
+14,6,16,12,Aedes,aegypti,Goiania,Yellow Fever,,S79,,Cuoto Lima et al. 2017,Figure 2,See first line
+7,6,6,0,Aedes,albopictus,Goiania,Yellow Fever,,74018 1D,,Cuoto Lima et al. 2017,Figure 2,See first line
+14,6,12,4,Aedes,albopictus,Goiania,Yellow Fever,,74018 1D,,Cuoto Lima et al. 2017,Figure 2,See first line
+21,6,4,4,Aedes,albopictus,Goiania,Yellow Fever,,74018 1D,,Cuoto Lima et al. 2017,Figure 2,See first line
+7,6,4,0,Aedes,albopictus,Goiania,Yellow Fever,,4408 1E,,Cuoto Lima et al. 2017,Figure 2,See first line
+14,6,8,2,Aedes,albopictus,Goiania,Yellow Fever,,4408 1E,,Cuoto Lima et al. 2017,Figure 2,See first line
+21,6,1,1,Aedes,albopictus,Goiania,Yellow Fever,,4408 1E,,Cuoto Lima et al. 2017,Figure 2,See first line
+7,6,4,4,Aedes,albopictus,Goiania,Yellow Fever,,S79,,Cuoto Lima et al. 2017,Figure 2,See first line
+14,6,17,2,Aedes,albopictus,Goiania,Yellow Fever,,S79,,Cuoto Lima et al. 2017,Figure 2,See first line
+21,6,8,8,Aedes,albopictus,Goiania,Yellow Fever,,S79,,Cuoto Lima et al. 2017,Figure 2,See first line
+12,5,25,0,Anopheles,stephensi,WHO Registry of Standard Malaria Parasites,Malaria,,yoelii,20,Paajimas et al. 2012,Figure 1,"Mice inoculated with 1*10^5 P. yoelli, mosquitoes were allowed to feed on the infected mice for 30 minutes. 25 random mosquitoes taken from cages and killed each sampling day"
+13,5,25,0,Anopheles,stephensi,WHO Registry of Standard Malaria Parasites,Malaria,,yoelii,20,Paajimas et al. 2012,Figure 1,See first line
+14,5,25,0,Anopheles,stephensi,WHO Registry of Standard Malaria Parasites,Malaria,,yoelii,20,Paajimas et al. 2012,Figure 1,See first line
+15,5,25,1,Anopheles,stephensi,WHO Registry of Standard Malaria Parasites,Malaria,,yoelii,20,Paajimas et al. 2012,Figure 1,See first line
+16,5,25,0,Anopheles,stephensi,WHO Registry of Standard Malaria Parasites,Malaria,,yoelii,20,Paajimas et al. 2012,Figure 1,See first line
+17,5,25,1,Anopheles,stephensi,WHO Registry of Standard Malaria Parasites,Malaria,,yoelii,20,Paajimas et al. 2012,Figure 1,See first line
+19,5,25,2,Anopheles,stephensi,WHO Registry of Standard Malaria Parasites,Malaria,,yoelii,20,Paajimas et al. 2012,Figure 1,See first line
+22,5,25,0,Anopheles,stephensi,WHO Registry of Standard Malaria Parasites,Malaria,,yoelii,20,Paajimas et al. 2012,Figure 1,See first line
+25,5,25,3,Anopheles,stephensi,WHO Registry of Standard Malaria Parasites,Malaria,,yoelii,20,Paajimas et al. 2012,Figure 1,See first line
+29,5,25,2,Anopheles,stephensi,WHO Registry of Standard Malaria Parasites,Malaria,,yoelii,20,Paajimas et al. 2012,Figure 1,See first line
+8,5,25,1,Anopheles,stephensi,WHO Registry of Standard Malaria Parasites,Malaria,,yoelii,26,Paajimas et al. 2012,Figure 1,See first line
+9,5,25,4,Anopheles,stephensi,WHO Registry of Standard Malaria Parasites,Malaria,,yoelii,26,Paajimas et al. 2012,Figure 1,See first line
+10,5,25,2,Anopheles,stephensi,WHO Registry of Standard Malaria Parasites,Malaria,,yoelii,26,Paajimas et al. 2012,Figure 1,See first line
+11,5,25,1,Anopheles,stephensi,WHO Registry of Standard Malaria Parasites,Malaria,,yoelii,26,Paajimas et al. 2012,Figure 1,See first line
+12,5,25,3,Anopheles,stephensi,WHO Registry of Standard Malaria Parasites,Malaria,,yoelii,26,Paajimas et al. 2012,Figure 1,See first line
+13,5,25,3,Anopheles,stephensi,WHO Registry of Standard Malaria Parasites,Malaria,,yoelii,26,Paajimas et al. 2012,Figure 1,See first line
+18,5,25,2,Anopheles,stephensi,WHO Registry of Standard Malaria Parasites,Malaria,,yoelii,26,Paajimas et al. 2012,Figure 1,See first line
+25,5,25,1,Anopheles,stephensi,WHO Registry of Standard Malaria Parasites,Malaria,,yoelii,26,Paajimas et al. 2012,Figure 1,See first line
+6,5,25,0,Anopheles,stephensi,WHO Registry of Standard Malaria Parasites,Malaria,,yoelii,24,Paajimas et al. 2012,Figure 1,See first line
+7,5,25,0,Anopheles,stephensi,WHO Registry of Standard Malaria Parasites,Malaria,,yoelii,24,Paajimas et al. 2012,Figure 1,See first line
+8,5,25,0,Anopheles,stephensi,WHO Registry of Standard Malaria Parasites,Malaria,,yoelii,24,Paajimas et al. 2012,Figure 1,See first line
+9,5,25,3,Anopheles,stephensi,WHO Registry of Standard Malaria Parasites,Malaria,,yoelii,24,Paajimas et al. 2012,Figure 1,See first line
+10,5,25,5,Anopheles,stephensi,WHO Registry of Standard Malaria Parasites,Malaria,,yoelii,24,Paajimas et al. 2012,Figure 1,See first line
+11,5,25,8,Anopheles,stephensi,WHO Registry of Standard Malaria Parasites,Malaria,,yoelii,24,Paajimas et al. 2012,Figure 1,See first line
+12,5,25,7,Anopheles,stephensi,WHO Registry of Standard Malaria Parasites,Malaria,,yoelii,24,Paajimas et al. 2012,Figure 1,See first line
+13,5,25,7,Anopheles,stephensi,WHO Registry of Standard Malaria Parasites,Malaria,,yoelii,24,Paajimas et al. 2012,Figure 1,See first line
+14,5,25,8,Anopheles,stephensi,WHO Registry of Standard Malaria Parasites,Malaria,,yoelii,24,Paajimas et al. 2012,Figure 1,See first line
+18,5,25,9,Anopheles,stephensi,WHO Registry of Standard Malaria Parasites,Malaria,,yoelii,24,Paajimas et al. 2012,Figure 1,See first line
+25,5,25,7,Anopheles,stephensi,WHO Registry of Standard Malaria Parasites,Malaria,,yoelii,24,Paajimas et al. 2012,Figure 1,See first line
+10,5,25,0,Anopheles,stephensi,WHO Registry of Standard Malaria Parasites,Malaria,,yoelii,22,Paajimas et al. 2012,Figure 1,See first line
+11,5,25,3,Anopheles,stephensi,WHO Registry of Standard Malaria Parasites,Malaria,,yoelii,22,Paajimas et al. 2012,Figure 1,See first line
+12,5,25,6,Anopheles,stephensi,WHO Registry of Standard Malaria Parasites,Malaria,,yoelii,22,Paajimas et al. 2012,Figure 1,See first line
+13,5,25,9,Anopheles,stephensi,WHO Registry of Standard Malaria Parasites,Malaria,,yoelii,22,Paajimas et al. 2012,Figure 1,See first line
+14,5,25,14,Anopheles,stephensi,WHO Registry of Standard Malaria Parasites,Malaria,,yoelii,22,Paajimas et al. 2012,Figure 1,See first line
+15,5,25,12,Anopheles,stephensi,WHO Registry of Standard Malaria Parasites,Malaria,,yoelii,22,Paajimas et al. 2012,Figure 1,See first line
+16,5,25,11,Anopheles,stephensi,WHO Registry of Standard Malaria Parasites,Malaria,,yoelii,22,Paajimas et al. 2012,Figure 1,See first line
+17,5,25,11,Anopheles,stephensi,WHO Registry of Standard Malaria Parasites,Malaria,,yoelii,22,Paajimas et al. 2012,Figure 1,See first line
+21,5,25,13,Anopheles,stephensi,WHO Registry of Standard Malaria Parasites,Malaria,,yoelii,22,Paajimas et al. 2012,Figure 1,See first line
+25,5,25,11,Anopheles,stephensi,WHO Registry of Standard Malaria Parasites,Malaria,,yoelii,22,Paajimas et al. 2012,Figure 1,See first line

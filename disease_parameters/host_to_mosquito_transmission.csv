@@ -1,0 +1,431 @@
+Day,Titer,N_Tested,N_Infected,Genus,Species,Mosquito_Strain,Method,Virus,Serotype,Virus_Strain,Citation,Figure_Table,Notes
+7,9.0,20,9,Aedes,aegypti,Rexville,,Dengue,1,See Table 1,Mitchell et al. 1987,Table 2,
+7,9.2,,,Aedes,aegypti,Rexville,,Dengue,1,See Table 1,Mitchell et al. 1987,Table 2,
+14,6.6,60,23,Aedes,aegypti,Rexville,,Dengue,1,See Table 1,Mitchell et al. 1987,Table 2,
+14,7.6,58,39,Aedes,aegypti,Rexville,,Dengue,1,See Table 1,Mitchell et al. 1987,Table 2,
+14,8.9,,,Aedes,aegypti,Rexville,,Dengue,1,See Table 1,Mitchell et al. 1987,Table 2,
+14,9.0,57,43,Aedes,aegypti,Rexville,,Dengue,1,See Table 1,Mitchell et al. 1987,Table 2,
+14,9.2,21,21,Aedes,aegypti,Rexville,,Dengue,1,See Table 1,Mitchell et al. 1987,Table 2,
+7,7.6,20,5,Aedes,aegypti,Rexville,,Dengue,2,See Table 1,Mitchell et al. 1987,Table 2,
+7,7.6,,,Aedes,aegypti,Rexville,,Dengue,2,See Table 1,Mitchell et al. 1987,Table 2,
+13,6.3,31,3,Aedes,aegypti,Rexville,,Dengue,2,See Table 1,Mitchell et al. 1987,Table 2,
+13,7.4,11,4,Aedes,aegypti,Rexville,,Dengue,2,See Table 1,Mitchell et al. 1987,Table 2,
+13,9.0,5,2,Aedes,aegypti,Rexville,,Dengue,2,See Table 1,Mitchell et al. 1987,Table 2,
+14,5.6,33,8,Aedes,aegypti,Rexville,,Dengue,2,See Table 1,Mitchell et al. 1987,Table 2,
+14,6.6,14,1,Aedes,aegypti,Rexville,,Dengue,2,See Table 1,Mitchell et al. 1987,Table 2,
+14,7.6,27,20,Aedes,aegypti,Rexville,,Dengue,2,See Table 1,Mitchell et al. 1987,Table 2,
+14,7.6,20,17,Aedes,aegypti,Rexville,,Dengue,2,See Table 1,Mitchell et al. 1987,Table 2,
+14,8.4,25,23,Aedes,aegypti,Rexville,,Dengue,2,See Table 1,Mitchell et al. 1987,Table 2,
+7,8.3,20,2,Aedes,aegypti,Rexville,,Dengue,3,See Table 1,Mitchell et al. 1987,Table 2,
+7,8.4,,,Aedes,aegypti,Rexville,,Dengue,3,See Table 1,Mitchell et al. 1987,Table 2,
+14,6.3,32,13,Aedes,aegypti,Rexville,,Dengue,3,See Table 1,Mitchell et al. 1987,Table 2,
+14,7.4,60,28,Aedes,aegypti,Rexville,,Dengue,3,See Table 1,Mitchell et al. 1987,Table 2,
+14,8.1,25,16,Aedes,aegypti,Rexville,,Dengue,3,See Table 1,Mitchell et al. 1987,Table 2,
+14,8.3,60,41,Aedes,aegypti,Rexville,,Dengue,3,See Table 1,Mitchell et al. 1987,Table 2,
+14,8.4,7,5,Aedes,aegypti,Rexville,,Dengue,3,See Table 1,Mitchell et al. 1987,Table 2,
+7,8.0,,,Aedes,aegypti,Rexville,,Dengue,4,See Table 1,Mitchell et al. 1987,Table 2,
+7,9.2,,,Aedes,aegypti,Rexville,,Dengue,4,See Table 1,Mitchell et al. 1987,Table 2,
+13,6.2,13,0,Aedes,aegypti,Rexville,,Dengue,4,See Table 1,Mitchell et al. 1987,Table 2,
+13,7.4,14,2,Aedes,aegypti,Rexville,,Dengue,4,See Table 1,Mitchell et al. 1987,Table 2,
+13,8.0,11,5,Aedes,aegypti,Rexville,,Dengue,4,See Table 1,Mitchell et al. 1987,Table 2,
+14,7.9,25,19,Aedes,aegypti,Rexville,,Dengue,4,See Table 1,Mitchell et al. 1987,Table 2,
+14,9.2,6,3,Aedes,aegypti,Rexville,,Dengue,4,See Table 1,Mitchell et al. 1987,Table 2,
+7,9.0,20,12,Aedes,albopictus,Houston,,Dengue,1,See Table 1,Mitchell et al. 1987,Table 2,
+7,9.2,19,11,Aedes,albopictus,Houston,,Dengue,1,See Table 1,Mitchell et al. 1987,Table 2,
+14,6.6,60,14,Aedes,albopictus,Houston,,Dengue,1,See Table 1,Mitchell et al. 1987,Table 2,
+14,7.6,60,42,Aedes,albopictus,Houston,,Dengue,1,See Table 1,Mitchell et al. 1987,Table 2,
+14,8.9,25,25,Aedes,albopictus,Houston,,Dengue,1,See Table 1,Mitchell et al. 1987,Table 2,
+14,9.0,68,58,Aedes,albopictus,Houston,,Dengue,1,See Table 1,Mitchell et al. 1987,Table 2,
+14,9.2,40,39,Aedes,albopictus,Houston,,Dengue,1,See Table 1,Mitchell et al. 1987,Table 2,
+7,7.6,,,Aedes,albopictus,Houston,,Dengue,2,See Table 1,Mitchell et al. 1987,Table 2,
+7,7.6,20,0,Aedes,albopictus,Houston,,Dengue,2,See Table 1,Mitchell et al. 1987,Table 2,
+13,6.3,60,7,Aedes,albopictus,Houston,,Dengue,2,See Table 1,Mitchell et al. 1987,Table 2,
+13,7.4,54,14,Aedes,albopictus,Houston,,Dengue,2,See Table 1,Mitchell et al. 1987,Table 2,
+13,9.0,37,9,Aedes,albopictus,Houston,,Dengue,2,See Table 1,Mitchell et al. 1987,Table 2,
+14,5.6,34,1,Aedes,albopictus,Houston,,Dengue,2,See Table 1,Mitchell et al. 1987,Table 2,
+14,6.6,35,6,Aedes,albopictus,Houston,,Dengue,2,See Table 1,Mitchell et al. 1987,Table 2,
+14,7.6,32,17,Aedes,albopictus,Houston,,Dengue,2,See Table 1,Mitchell et al. 1987,Table 2,
+14,7.6,38,17,Aedes,albopictus,Houston,,Dengue,2,See Table 1,Mitchell et al. 1987,Table 2,
+14,8.4,23,17,Aedes,albopictus,Houston,,Dengue,2,See Table 1,Mitchell et al. 1987,Table 2,
+7,8.3,,,Aedes,albopictus,Houston,,Dengue,3,See Table 1,Mitchell et al. 1987,Table 2,
+7,8.4,20,3,Aedes,albopictus,Houston,,Dengue,3,See Table 1,Mitchell et al. 1987,Table 2,
+14,6.3,60,16,Aedes,albopictus,Houston,,Dengue,3,See Table 1,Mitchell et al. 1987,Table 2,
+14,7.4,59,13,Aedes,albopictus,Houston,,Dengue,3,See Table 1,Mitchell et al. 1987,Table 2,
+14,8.1,15,8,Aedes,albopictus,Houston,,Dengue,3,See Table 1,Mitchell et al. 1987,Table 2,
+14,8.3,53,20,Aedes,albopictus,Houston,,Dengue,3,See Table 1,Mitchell et al. 1987,Table 2,
+14,8.4,34,14,Aedes,albopictus,Houston,,Dengue,3,See Table 1,Mitchell et al. 1987,Table 2,
+7,8.0,20,,Aedes,albopictus,Houston,,Dengue,4,See Table 1,Mitchell et al. 1987,Table 2,
+7,9.2,20,1,Aedes,albopictus,Houston,,Dengue,4,See Table 1,Mitchell et al. 1987,Table 2,
+13,6.2,60,4,Aedes,albopictus,Houston,,Dengue,4,See Table 1,Mitchell et al. 1987,Table 2,
+13,7.4,60,8,Aedes,albopictus,Houston,,Dengue,4,See Table 1,Mitchell et al. 1987,Table 2,
+13,8.0,59,23,Aedes,albopictus,Houston,,Dengue,4,See Table 1,Mitchell et al. 1987,Table 2,
+14,7.9,19,8,Aedes,albopictus,Houston,,Dengue,4,See Table 1,Mitchell et al. 1987,Table 2,
+14,9.2,42,12,Aedes,albopictus,Houston,,Dengue,4,See Table 1,Mitchell et al. 1987,Table 2,
+14,8.9,25,25,Aedes,albopictus,Houston,,Dengue,1,See Table 1,Mitchell et al. 1987,Table 3,
+14,8.4,25,23,Aedes,albopictus,Houston,,Dengue,2,See Table 1,Mitchell et al. 1987,Table 3,
+14,8.1,25,16,Aedes,albopictus,Houston,,Dengue,3,See Table 1,Mitchell et al. 1987,Table 3,
+14,7.9,25,19,Aedes,albopictus,Houston,,Dengue,4,See Table 1,Mitchell et al. 1987,Table 3,
+14,7.3,44,35,Aedes,aegypti,Rexville,,Yellow Fever,,BA55,Miller et al. 1989,Table 2,In text “transmitted virus 14 days later”
+14,5.9,54,26,Aedes,aegypti,Rexville,,Yellow Fever,,BA55,Miller et al. 1989,Table 2,See first line
+14,5.0,13,5,Aedes,aegypti,Rexville,,Yellow Fever,,BA55,Miller et al. 1989,Table 2,See first line
+14,7.3,53,14,Aedes,aegypti,Ogombosho,,Yellow Fever,,BA55,Miller et al. 1989,Table 2,See first line
+14,5.9,40,4,Aedes,aegypti,Ogombosho,,Yellow Fever,,BA55,Miller et al. 1989,Table 2,See first line
+14,5.0,29,2,Aedes,aegypti,Ogombosho,,Yellow Fever,,BA55,Miller et al. 1989,Table 2,See first line
+14,7.3,50,12,Aedes,aegypti,Benue State,,Yellow Fever,,BA55,Miller et al. 1989,Table 2,See first line
+14,5.9,51,1,Aedes,aegypti,Benue State,,Yellow Fever,,BA55,Miller et al. 1989,Table 2,See first line
+14,5.0,62,2,Aedes,aegypti,Benue State,,Yellow Fever,,BA55,Miller et al. 1989,Table 2,See first line
+14,8,568,460,Aedes,aegypti,Puerto Rico,,Dengue,2,JAM1409,Bennett et al. 2002,Table 1,Dose ranged from 7.5 to 8.5 log10. See Table 1 for details on mosquito strains
+14,8,55,25,Aedes,aegypti,Hermosillo,,Dengue,2,JAM1409,Bennett et al. 2002,Table 1,See first line
+14,8,39,24,Aedes,aegypti,Guaymas,,Dengue,2,JAM1409,Bennett et al. 2002,Table 1,See first line
+14,8,151,119,Aedes,aegypti,Culican,,Dengue,2,JAM1409,Bennett et al. 2002,Table 1,See first line
+14,8,84,54,Aedes,aegypti,Mazatlan,,Dengue,2,JAM1409,Bennett et al. 2002,Table 1,See first line
+14,8,80,24,Aedes,aegypti,Puerto Vallarta,,Dengue,2,JAM1409,Bennett et al. 2002,Table 1,See first line
+14,8,117,66,Aedes,aegypti,Manzanillo,,Dengue,2,JAM1409,Bennett et al. 2002,Table 1,See first line
+14,8,105,48,Aedes,aegypti,Lazaro Cardenas,,Dengue,2,JAM1409,Bennett et al. 2002,Table 1,See first line
+14,8,68,16,Aedes,aegypti,Ixtapa Zihuantanejo,,Dengue,2,JAM1409,Bennett et al. 2002,Table 1,See first line
+14,8,45,33,Aedes,aegypti,Coyuca de Benitez,,Dengue,2,JAM1409,Bennett et al. 2002,Table 1,See first line
+14,8,148,89,Aedes,aegypti,Peurto Escondido,,Dengue,2,JAM1409,Bennett et al. 2002,Table 1,See first line
+14,8,108,78,Aedes,aegypti,Tapachula I,,Dengue,2,JAM1409,Bennett et al. 2002,Table 1,See first line
+14,8,100,50,Aedes,aegypti,Tapachula II,,Dengue,2,JAM1409,Bennett et al. 2002,Table 1,See first line
+14,8,109,90,Aedes,aegypti,Chetumal,,Dengue,2,JAM1409,Bennett et al. 2002,Table 1,See first line
+14,8,139,100,Aedes,aegypti,Cancun,,Dengue,2,JAM1409,Bennett et al. 2002,Table 1,See first line
+14,8,149,101,Aedes,aegypti,Merida,,Dengue,2,JAM1409,Bennett et al. 2002,Table 1,See first line
+14,8,60,26,Aedes,aegypti,Campeche,,Dengue,2,JAM1409,Bennett et al. 2002,Table 1,See first line
+14,8,60,26,Aedes,aegypti,Ciudad del Carmen,,Dengue,2,JAM1409,Bennett et al. 2002,Table 1,See first line
+14,8,175,85,Aedes,aegypti,Villahermosa,,Dengue,2,JAM1409,Bennett et al. 2002,Table 1,See first line
+14,8,123,70,Aedes,aegypti,Moloacan,,Dengue,2,JAM1409,Bennett et al. 2002,Table 1,See first line
+14,8,196,117,Aedes,aegypti,Miguel Aleman,,Dengue,2,JAM1409,Bennett et al. 2002,Table 1,See first line
+14,8,171,82,Aedes,aegypti,Nuevo Laredo,,Dengue,2,JAM1409,Bennett et al. 2002,Table 1,See first line
+14,8,121,69,Aedes,aegypti,Monterrey,,Dengue,2,JAM1409,Bennett et al. 2002,Table 1,See first line
+14,8,100,39,Aedes,aegypti,Houston,,Dengue,2,JAM1409,Bennett et al. 2002,Table 1,See first line
+14,8,99,64,Aedes,aegypti,Tucson,,Dengue,2,JAM1409,Bennett et al. 2002,Table 1,See first line
+12,3.028,10,0,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,Pooled into groups of 10 mosquitoes (see methods pg 9076 second to last paragraph)
+12,3.564,10,0,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,3.688,10,0,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,3.763,10,0,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,3.941,10,0,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,4.065,10,0,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,4.558,10,0,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,4.621,10,0,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,4.763,10,0,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,4.898,10,0,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,5.037,10,0,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,5.078,10,0,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,5.234,10,0,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,5.323,10,0,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,5.413,10,0,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,5.504,10,0,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,5.681,10,0,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,5.849,10,0,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,6.439,10,0,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,7.714,10,0,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,7.948,10,0,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,4.473,10,1.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,4.508,10,1.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,5.135,10,0.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,5.193,10,0.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,5.803,10,1.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,6.502,10,1.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,6.537,10,2.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,7.510,10,1.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,7.499,10,1.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,7.422,10,1.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,6.633,10,3.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,6.812,10,3.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,8.811,10,3.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,7.857,10,4.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,4.528,10,4.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,3.855,10,3.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,7.167,10,5.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,7.316,10,5.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,7.147,10,5.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,6.889,10,6.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,6.889,10,6.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,6.957,10,6.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,7.330,10,6.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,6.803,10,6.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,7.138,10,6.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,7.206,10,7.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,7.430,10,7.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,4.899,10,7.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,6.219,10,7.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,6.462,10,8.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,6.760,10,8.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,7.624,10,7.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,7.847,10,7.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,8.732,10,7.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,7.507,10,8.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,7.838,10,8.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,7.838,10,8.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,8.802,10,8.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,9.572,10,8.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,9.690,10,9.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,8.575,10,9.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,5.926,10,9.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,6.030,10,10,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,6.232,10,10,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,7.221,10,9.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,7.260,10,9.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,7.165,10,10.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,7.376,10,10.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,7.591,10,9.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,7.690,10,9.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,7.751,10,9.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,7.862,10,9.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,8.032,10,9.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,8.183,10,9.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,8.326,10,10.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,8.514,10,9.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,8.419,10,9.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,8.333,10,9.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,8.913,10,10.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,11.568,10,10.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,10.524,10,10.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,10.180,10,10.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,10.059,10,10.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,9.923,10,10.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,9.843,10,10.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,9.771,10,10.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,9.588,10,10.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,9.518,10,10.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,9.443,10,10.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,9.295,10,10.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,9.179,10,10.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,9.092,10,10.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,9.005,10,10.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,8.896,10,10.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,8.806,10,10.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,8.712,10,10.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,8.644,10,10.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,8.510,10,10.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,8.409,10,10.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,8.348,10,10.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,8.185,10,10.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,8.024,10,10.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,7.925,10,10.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,7.829,10,10.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,7.691,10,10.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,7.591,10,10.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,7.337,10,10.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,7.262,10,10.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,7.070,10,10.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,6.983,10,10.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+12,6.830,10,10.000,Aedes,aegypti,HCMC District 8,,Dengue,1,Various,Nugyen et al. 2013,Figure 2,See first line
+15,8.5,10,10,Aedes,aegypti,Santa Cruz,,Yellow Fever,,CENETROP 322,Mutebi et al. 2004,Table 1,
+15,8.7,31,29,Aedes,aegypti,Santa Cruz,,Yellow Fever,,Jimenez,Mutebi et al. 2004,Table 1,
+15,7.3,26,3,Aedes,aegypti,Santa Cruz,,Yellow Fever,,Asibi,Mutebi et al. 2004,Table 1,
+15,8.5,30,19,Aedes,aegypti,REXD,,Yellow Fever,,CENETROP 322,Mutebi et al. 2004,Table 1,
+15,8.7,30,27,Aedes,aegypti,REXD,,Yellow Fever,,Jimenez,Mutebi et al. 2004,Table 1,
+15,7.3,30,13,Aedes,aegypti,REXD,,Yellow Fever,,Asibi,Mutebi et al. 2004,Table 1,
+12.5,7.4,34,12,Aedes,aegypti,Santos,,Yellow Fever,,MG2001,Johnson et al. 2002,Table 1,Range of days (11-14) and Titer (7-7.8)
+12.5,7.4,34,6,Aedes,aegypti,Vanuatu,,Yellow Fever,,MG2001,Johnson et al. 2002,Table 1,See first line
+12.5,7.4,38,11,Aedes,albopictus,Passos,,Yellow Fever,,MG2001,Johnson et al. 2002,Table 1,See first line
+10,3.2,6,4,Aedes,aegypti,Santo Domingo,,Yellow Fever,,French viscerotropic,Aitken et al. 1977,Table 1,
+14,3.2,3,1,Aedes,aegypti,Santo Domingo,,Yellow Fever,,French viscerotropic,Aitken et al. 1977,Table 1,
+17,3.2,2,2,Aedes,aegypti,Santo Domingo,,Yellow Fever,,French viscerotropic,Aitken et al. 1977,Table 1,
+10,3.2,8,2,Aedes,aegypti,Amphur,,Yellow Fever,,French viscerotropic,Aitken et al. 1977,Table 1,
+14,3.2,6,3,Aedes,aegypti,Amphur,,Yellow Fever,,French viscerotropic,Aitken et al. 1977,Table 1,
+17,3.2,9,9,Aedes,aegypti,Amphur,,Yellow Fever,,French viscerotropic,Aitken et al. 1977,Table 1,
+10,3.2,4,1,Aedes,aegypti,Kampala,,Yellow Fever,,French viscerotropic,Aitken et al. 1977,Table 1,
+14,3.2,2,0,Aedes,aegypti,Kampala,,Yellow Fever,,French viscerotropic,Aitken et al. 1977,Table 1,
+17,3.2,5,2,Aedes,aegypti,Kampala,,Yellow Fever,,French viscerotropic,Aitken et al. 1977,Table 1,
+12,7.3,8,7,Aedes,aegypti,Santo Domingo,,Yellow Fever,,French viscerotropic,Aitken et al. 1977,Table 1,
+15,7.3,7,6,Aedes,aegypti,Santo Domingo,,Yellow Fever,,French viscerotropic,Aitken et al. 1977,Table 1,
+12,7.3,9,9,Aedes,aegypti,Amphur,,Yellow Fever,,French viscerotropic,Aitken et al. 1977,Table 1,
+15,7.3,7,6,Aedes,aegypti,Amphur,,Yellow Fever,,French viscerotropic,Aitken et al. 1977,Table 1,
+12,7.3,2,2,Aedes,aegypti,Kampala,,Yellow Fever,,French viscerotropic,Aitken et al. 1977,Table 1,
+15,7.3,4,4,Aedes,aegypti,Kampala,,Yellow Fever,,French viscerotropic,Aitken et al. 1977,Table 1,
+18,7.3,4,4,Aedes,aegypti,Kampala,,Yellow Fever,,French viscerotropic,Aitken et al. 1977,Table 1,
+20,7.3,17,13,Aedes,aegypti,Kampala,,Yellow Fever,,French viscerotropic,Aitken et al. 1977,Table 1,
+11,7.4,8,8,Aedes,aegypti,Santo Domingo,,Yellow Fever,,French viscerotropic,Aitken et al. 1977,Table 1,
+13,7.4,7,7,Aedes,aegypti,Santo Domingo,,Yellow Fever,,French viscerotropic,Aitken et al. 1977,Table 1,
+15,7.4,6,6,Aedes,aegypti,Santo Domingo,,Yellow Fever,,French viscerotropic,Aitken et al. 1977,Table 1,
+18,7.4,2,2,Aedes,aegypti,Santo Domingo,,Yellow Fever,,French viscerotropic,Aitken et al. 1977,Table 1,
+11,7.4,7,7,Aedes,aegypti,Amphur,,Yellow Fever,,French viscerotropic,Aitken et al. 1977,Table 1,
+13,7.4,8,6,Aedes,aegypti,Amphur,,Yellow Fever,,French viscerotropic,Aitken et al. 1977,Table 1,
+16,7.4,8,8,Aedes,aegypti,Amphur,,Yellow Fever,,French viscerotropic,Aitken et al. 1977,Table 1,
+11,7.4,1,1,Aedes,aegypti,Kampala,,Yellow Fever,,French viscerotropic,Aitken et al. 1977,Table 1,
+13,7.4,7,2,Aedes,aegypti,Kampala,,Yellow Fever,,French viscerotropic,Aitken et al. 1977,Table 1,
+16,7.4,1,1,Aedes,aegypti,Kampala,,Yellow Fever,,French viscerotropic,Aitken et al. 1977,Table 1,
+17,7.4,8,8,Aedes,aegypti,Kampala,,Yellow Fever,,French viscerotropic,Aitken et al. 1977,Table 1,
+18,7.4,2,2,Aedes,aegypti,Kampala,,Yellow Fever,,French viscerotropic,Aitken et al. 1977,Table 1,
+20,7.4,4,4,Aedes,aegypti,Kampala,,Yellow Fever,,French viscerotropic,Aitken et al. 1977,Table 1,
+3,6,11,0,Aedes,aegypti,Goiania,,Yellow Fever,,74018 1D,Cuoto Lima et al. 2017,Figure 2,"Thorax and abdomen vs head. Infectious saliva given as transmission here, but most other papers just give head, so to compare use head here, but just a note that this probably over-estimates "
+7,6,20,6,Aedes,aegypti,Goiania,,Yellow Fever,,74018 1D,Cuoto Lima et al. 2017,Figure 2,See first line
+14,6,20,16,Aedes,aegypti,Goiania,,Yellow Fever,,74018 1D,Cuoto Lima et al. 2017,Figure 2,See first line
+21,6,20,13,Aedes,aegypti,Goiania,,Yellow Fever,,74018 1D,Cuoto Lima et al. 2017,Figure 2,See first line
+3,6,11,0,Aedes,aegypti,Goiania,,Yellow Fever,,4408 1E,Cuoto Lima et al. 2017,Figure 2,See first line
+7,6,20,5,Aedes,aegypti,Goiania,,Yellow Fever,,4408 1E,Cuoto Lima et al. 2017,Figure 2,See first line
+14,6,20,15,Aedes,aegypti,Goiania,,Yellow Fever,,4408 1E,Cuoto Lima et al. 2017,Figure 2,See first line
+21,6,20,2,Aedes,aegypti,Goiania,,Yellow Fever,,4408 1E,Cuoto Lima et al. 2017,Figure 2,See first line
+3,6,11,0,Aedes,aegypti,Goiania,,Yellow Fever,,S79,Cuoto Lima et al. 2017,Figure 2,See first line
+7,6,20,6,Aedes,aegypti,Goiania,,Yellow Fever,,S79,Cuoto Lima et al. 2017,Figure 2,See first line
+14,6,20,16,Aedes,aegypti,Goiania,,Yellow Fever,,S79,Cuoto Lima et al. 2017,Figure 2,See first line
+21,6,20,0,Aedes,aegypti,Goiania,,Yellow Fever,,S79,Cuoto Lima et al. 2017,Figure 2,See first line
+3,6,18,0,Aedes,albopictus,Goiania,,Yellow Fever,,74018 1D,Cuoto Lima et al. 2017,Figure 2,See first line
+7,6,20,6,Aedes,albopictus,Goiania,,Yellow Fever,,74018 1D,Cuoto Lima et al. 2017,Figure 2,See first line
+14,6,20,12,Aedes,albopictus,Goiania,,Yellow Fever,,74018 1D,Cuoto Lima et al. 2017,Figure 2,See first line
+21,6,20,4,Aedes,albopictus,Goiania,,Yellow Fever,,74018 1D,Cuoto Lima et al. 2017,Figure 2,See first line
+3,6,18,0,Aedes,albopictus,Goiania,,Yellow Fever,,4408 1E,Cuoto Lima et al. 2017,Figure 2,See first line
+7,6,20,4,Aedes,albopictus,Goiania,,Yellow Fever,,4408 1E,Cuoto Lima et al. 2017,Figure 2,See first line
+14,6,20,8,Aedes,albopictus,Goiania,,Yellow Fever,,4408 1E,Cuoto Lima et al. 2017,Figure 2,See first line
+21,6,20,1,Aedes,albopictus,Goiania,,Yellow Fever,,4408 1E,Cuoto Lima et al. 2017,Figure 2,See first line
+3,6,18,0,Aedes,albopictus,Goiania,,Yellow Fever,,S79,Cuoto Lima et al. 2017,Figure 2,See first line
+7,6,20,4,Aedes,albopictus,Goiania,,Yellow Fever,,S79,Cuoto Lima et al. 2017,Figure 2,See first line
+14,6,20,16,Aedes,albopictus,Goiania,,Yellow Fever,,S79,Cuoto Lima et al. 2017,Figure 2,See first line
+21,6,20,8,Aedes,albopictus,Goiania,,Yellow Fever,,S79,Cuoto Lima et al. 2017,Figure 2,See first line
+7.5,0.7970702873809670,65,8.000000000000000,Anopheles,gambiae,,Skin,Malaria,,"falciparum: The Gambia, Mali, Senegal",Bousema et al. 2012,Figure 7,"Gametocytes per ul. Extremely unclear sample size for most data points given that seems to be a combination of new empirical work and lit review. Table 2 gives experimental design with some info on N, but the info in text about 60-70 mosquitoes for the skin feeding experiment is hard to match with this table. To match with data from other papers I am using just Skin and Membrane. I honestly don’t know what the sample size is for “Membrane"" so for a placeholder for now I am just using 65 for both skin and membrane."
+7.5,5.8590420241600300,65,16.00000000000000,Anopheles,gambiae,,Skin,Malaria,,"falciparum: The Gambia, Mali, Senegal",Bousema et al. 2012,Figure 7,See first line
+7.5,19.783321956099000,65,15.000000000000000,Anopheles,gambiae,,Skin,Malaria,,"falciparum: The Gambia, Mali, Senegal",Bousema et al. 2012,Figure 7,See first line
+7.5,57.267802485571600,65,18.000000000000000,Anopheles,gambiae,,Skin,Malaria,,"falciparum: The Gambia, Mali, Senegal",Bousema et al. 2012,Figure 7,See first line
+7.5,154.38895164511000,65,27.000000000000000,Anopheles,gambiae,,Skin,Malaria,,"falciparum: The Gambia, Mali, Senegal",Bousema et al. 2012,Figure 7,See first line
+7.5,434.19134227214500,65,29.00000000000000,Anopheles,gambiae,,Skin,Malaria,,"falciparum: The Gambia, Mali, Senegal",Bousema et al. 2012,Figure 7,See first line
+7.5,1187.0329342111100,65,29.00000000000000,Anopheles,gambiae,,Skin,Malaria,,"falciparum: The Gambia, Mali, Senegal",Bousema et al. 2012,Figure 7,See first line
+7.5,5.977681703599510,65,16.75057208237990,Anopheles,gambiae,,Membrane,Malaria,,"falciparum: The Gambia, Mali, Senegal",Bousema et al. 2012,Figure 7,See first line
+7.5,20.712695401278100,65,15.37757437070940,Anopheles,gambiae,,Membrane,Malaria,,"falciparum: The Gambia, Mali, Senegal",Bousema et al. 2012,Figure 7,See first line
+7.5,53.73939197339910,65,16.06407322654460,Anopheles,gambiae,,Membrane,Malaria,,"falciparum: The Gambia, Mali, Senegal",Bousema et al. 2012,Figure 7,See first line
+7.5,147.3276558922050,65,19.22196796338670,Anopheles,gambiae,,Membrane,Malaria,,"falciparum: The Gambia, Mali, Senegal",Bousema et al. 2012,Figure 7,See first line
+7.5,439.5624597255180,65,28.28375286041190,Anopheles,gambiae,,Membrane,Malaria,,"falciparum: The Gambia, Mali, Senegal",Bousema et al. 2012,Figure 7,See first line
+7.5,1125.2883994321600,65,43.79862700228830,Anopheles,gambiae,,Membrane,Malaria,,"falciparum: The Gambia, Mali, Senegal",Bousema et al. 2012,Figure 7,See first line
+7.5,3869.0196584604200,65,33.63844393592680,Anopheles,gambiae,,Membrane,Malaria,,"falciparum: The Gambia, Mali, Senegal",Bousema et al. 2012,Figure 7,See first line
+7.5,7.128440933145130,,6.315789473684210,Anopheles,gambiae,,Control Serum,Malaria,,"falciparum: The Gambia, Mali, Senegal",Bousema et al. 2012,Figure 7,See first line
+7.5,25.03139007330970,,20.04576659038900,Anopheles,gambiae,,Control Serum,Malaria,,"falciparum: The Gambia, Mali, Senegal",Bousema et al. 2012,Figure 7,See first line
+7.5,77.85112519328450,,16.20137299771170,Anopheles,gambiae,,Control Serum,Malaria,,"falciparum: The Gambia, Mali, Senegal",Bousema et al. 2012,Figure 7,See first line
+7.5,286.45799194177800,,22.929061784897000,Anopheles,gambiae,,Control Serum,Malaria,,"falciparum: The Gambia, Mali, Senegal",Bousema et al. 2012,Figure 7,See first line
+7.5,848.9927255240450,,24.43935926773460,Anopheles,gambiae,,Control Serum,Malaria,,"falciparum: The Gambia, Mali, Senegal",Bousema et al. 2012,Figure 7,See first line
+7.5,2950.328183709020,,26.361556064073200,Anopheles,gambiae,,Control Serum,Malaria,,"falciparum: The Gambia, Mali, Senegal",Bousema et al. 2012,Figure 7,See first line
+7.5,7.114639036892360,,4.1189931350114400,Anopheles,gambiae,,Serum Replacement,Malaria,,"falciparum: The Gambia, Mali, Senegal",Bousema et al. 2012,Figure 7,See first line
+7.5,24.868196085725400,,12.631578947368400,Anopheles,gambiae,,Serum Replacement,Malaria,,"falciparum: The Gambia, Mali, Senegal",Bousema et al. 2012,Figure 7,See first line
+7.5,77.57813607657140,,12.21967963386730,Anopheles,gambiae,,Serum Replacement,Malaria,,"falciparum: The Gambia, Mali, Senegal",Bousema et al. 2012,Figure 7,See first line
+7.5,283.9018043853200,,12.768878718535500,Anopheles,gambiae,,Serum Replacement,Malaria,,"falciparum: The Gambia, Mali, Senegal",Bousema et al. 2012,Figure 7,See first line
+7.5,842.4366091110990,,15.652173913043500,Anopheles,gambiae,,Serum Replacement,Malaria,,"falciparum: The Gambia, Mali, Senegal",Bousema et al. 2012,Figure 7,See first line
+7.5,2940.3388369640400,,22.517162471395900,Anopheles,gambiae,,Serum Replacement,Malaria,,"falciparum: The Gambia, Mali, Senegal",Bousema et al. 2012,Figure 7,See first line
+8,1.00000,30,0.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,"Gametocytes per ul, membrane feeding, no serum replacement. Mosquitoes checked for infection 7-9 days after feeding. Midguts dissected. Slightly vague methods, but it appears that each data point is given by “at least 30 mosquitoes were dissected” so just going with this minimum and rounding. Not a perfect science using data thief and rounding, but results will be qualitatively only marginally different"
+8,1.00000,30,5.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,1.98766,30,20.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,1.98766,30,22.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,2.02596,30,0.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,3.95080,30,0.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,3.95080,30,17.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,4.02691,30,18.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,6.01181,30,3.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,6.01181,30,8.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,6.01181,30,13.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,6.01181,30,25.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,7.00332,30,26.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,7.85286,30,25.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,8.97509,30,29.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,9.14800,30,25.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,11.07131,30,0.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,11.94945,30,25.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,13.92023,30,26.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,17.83944,30,28.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,18.18312,30,29.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,19.25442,30,24.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,20.00345,30,27.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,20.78163,30,26.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,21.18199,30,13.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,21.18199,30,26.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,21.18199,30,30.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,22.00602,30,28.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,25.15084,30,28.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,26.12926,30,25.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,27.14574,30,29.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,27.66871,30,25.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,28.20176,30,27.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,32.23200,30,25.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,32.23200,30,30.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,39.00859,30,29.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,39.76010,30,26.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,40.52610,30,29.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,42.10265,30,23.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,43.74052,30,26.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,45.44212,30,29.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,49.99137,30,0.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,51.93613,30,26.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,54.99605,30,29.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,61.66734,30,28.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,66.55864,30,29.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,76.07036,30,29.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,83.68583,30,23.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,95.64516,30,28.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,95.64516,30,29.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,95.64516,30,30.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,101.28027,30,7.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,101.28027,30,28.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,105.22028,30,0.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,109.31356,30,8.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,127.34221,30,23.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,163.19513,30,30.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,186.51692,30,29.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,213.17157,30,30.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,294.85823,30,30.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,370.73260,30,17.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,891.81802,30,1.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,1331.40257,30,0.00000,Anopheles,dirus,Bangkok,Membrane,Malaria,,vivax: Thailand,Kiattibur et al. 2017,Figure 2,See first line
+8,1.00000,25,0.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,"25 mosquitoes per carton, dissected 7, 8, 9 days after feeding, unclear about whether these gametocyte counts are per ul, but guessing that they are given a common protocol between this and other studies"
+8,2.00826,25,0.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,2.99764,25,0.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,3.97375,25,0.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,5.03837,25,0.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,6.02005,25,0.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,6.98281,25,0.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,7.98031,25,0.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,8.98587,25,0.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,9.96919,25,0.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,11.06012,25,0.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,14.02329,25,0.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,17.00631,25,0.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,20.02073,25,0.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,29.88409,25,0.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,30.78435,25,0.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,2.01335,25,1.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,2.01419,25,1.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,2.01674,25,2.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,2.01902,25,2.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,1.00705,25,3.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,1.01431,25,6.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,1.02174,25,9.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,2.06876,25,12.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,3.10620,25,15.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,4.14878,25,12.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,5.10717,25,12.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,3.05724,25,8.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,3.04011,25,6.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,3.03627,25,5.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,4.06443,25,3.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,3.99558,25,2.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,3.01370,25,2.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,4.98368,25,2.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,4.99839,25,3.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,6.06513,25,3.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,8.00719,25,1.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,13.05389,25,1.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,11.96217,25,2.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,13.10328,25,3.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,13.12563,25,3.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,22.08259,25,4.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,11.24527,25,7.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,12.34071,25,9.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,11.13602,25,9.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,7.12164,25,8.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,7.14480,25,10.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,32.45563,25,10.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,10.26810,25,12.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,8.24138,25,14.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,10.31146,25,14.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,12.35179,25,15.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,7.25103,25,16.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,6.27235,25,17.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,7.31038,25,19.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,16.69591,25,17.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,29.25230,25,16.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,39.27354,25,15.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,65.23941,25,16.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,14.66054,25,19.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,10.51502,25,22.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,16.97032,25,24.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,15.90303,25,22.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,23.04358,25,22.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,40.97793,25,20.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line
+8,112.83400,25,22.00000,Anopheles,darlingi,Iquitos,Membrane,Malaria,,vivax: Peru,Bharti et al. 2006,Figure 2,See first line

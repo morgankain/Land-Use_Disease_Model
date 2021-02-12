@@ -1,0 +1,74 @@
+Host,N,Abundance,Blood,HBI,Feeding_Ratio,Genus,Species,Mosquito_Strain,Collection,Location,Citation,Figure_Table,Notes
+Human,16,,,0.102,,Anopheles,albimanus,,Various,See Figure 1,Kiszewski et al. 2004,Table 2,"Just gives HBI so not good enough to really model intrinsic biting preference, but fine enough or the land-disease model"
+Human,1,,,0.010,,Anopheles,anthropophagus,,Various,See Figure 1,Kiszewski et al. 2004,Table 2,See first line
+Human,3,,,0.109,,Anopheles,aquasalis,,Various,See Figure 1,Kiszewski et al. 2004,Table 2,See first line
+Human,32,,,0.871,,Anopheles,arabiensis,,Various,See Figure 1,Kiszewski et al. 2004,Table 2,See first line
+Human,8,,,0.245,,Anopheles,atroparvus,,Various,See Figure 1,Kiszewski et al. 2004,Table 2,See first line
+Human,9,,,0.127,,Anopheles,barbirostris,,Various,See Figure 1,Kiszewski et al. 2004,Table 2,See first line
+Human,55,,,0.052,,Anopheles,culicifacies,,Various,See Figure 1,Kiszewski et al. 2004,Table 2,See first line
+Human,2,,,0.458,,Anopheles,darlingi,,Various,See Figure 1,Kiszewski et al. 2004,Table 2,See first line
+Human,18,,,0.355,,Anopheles,dirus,,Various,See Figure 1,Kiszewski et al. 2004,Table 2,See first line
+Human,19,,,0.658,,Anopheles,farauti,,Various,See Figure 1,Kiszewski et al. 2004,Table 2,See first line
+Human,9,,,0.300,,Anopheles,flavirostris,,Various,See Figure 1,Kiszewski et al. 2004,Table 2,See first line
+Human,27,,,0.034,,Anopheles,fluviatilis,,Various,See Figure 1,Kiszewski et al. 2004,Table 2,See first line
+Human,8,,,0.019,,Anopheles,freeborni,,Various,See Figure 1,Kiszewski et al. 2004,Table 2,See first line
+Human,30,,,0.980,,Anopheles,funestus,,Various,See Figure 1,Kiszewski et al. 2004,Table 2,See first line
+Human,36,,,0.939,,Anopheles,gambiae ss,,Various,See Figure 1,Kiszewski et al. 2004,Table 2,See first line
+Human,17,,,0.151,,Anopheles,labranchiae,,Various,See Figure 1,Kiszewski et al. 2004,Table 2,See first line
+Human,10,,,0.155,,Anopheles,maculatus,,Various,See Figure 1,Kiszewski et al. 2004,Table 2,See first line
+Human,6,,,0.690,,Anopheles,melas,,Various,See Figure 1,Kiszewski et al. 2004,Table 2,See first line
+Human,14,,,0.172,,Anopheles,messeae,,Various,See Figure 1,Kiszewski et al. 2004,Table 2,See first line
+Human,12,,,0.425,,Anopheles,minimus,,Various,See Figure 1,Kiszewski et al. 2004,Table 2,See first line
+Human,15,,,0.008,,Anopheles,multicolor,,Various,See Figure 1,Kiszewski et al. 2004,Table 2,See first line
+Human,11,,,0.222,,Anopheles,nuneztovari,,Various,See Figure 1,Kiszewski et al. 2004,Table 2,See first line
+Human,17,,,0.520,,Anopheles,pharoahensis,,Various,See Figure 1,Kiszewski et al. 2004,Table 2,See first line
+Human,13,,,0.477,,Anopheles,pseudopunctipennis,,Various,See Figure 1,Kiszewski et al. 2004,Table 2,See first line
+Human,12,,,0.062,,Anopheles,pulcherrimus,,Various,See Figure 1,Kiszewski et al. 2004,Table 2,See first line
+Human,7,,,0.855,,Anopheles,punctulatus sl,,Various,See Figure 1,Kiszewski et al. 2004,Table 2,See first line
+Human,27,,,0.111,,Anopheles,quadrimaculatus,,Various,See Figure 1,Kiszewski et al. 2004,Table 2,See first line
+Human,47,,,0.087,,Anopheles,sacharovi,,Various,See Figure 1,Kiszewski et al. 2004,Table 2,See first line
+Human,18,,,0.100,,Anopheles,sergentii,,Various,See Figure 1,Kiszewski et al. 2004,Table 2,See first line
+Human,21,,,0.018,,Anopheles,sinensis,,Various,See Figure 1,Kiszewski et al. 2004,Table 2,See first line
+Human,37,,,0.023,,Anopheles,stephensi,,Various,See Figure 1,Kiszewski et al. 2004,Table 2,See first line
+Human,18,,,0.093,,Anopheles,superpictus,,Various,See Figure 1,Kiszewski et al. 2004,Table 2,See first line
+Human,219,,,0.156,,Anopheles,marajoara,,Under House,Amapa Brazil,Zimmerman et al. 2006,Table 6,Summed estimates from each village but kept sampling location separate. This is a bit fishy of a choice given the huge sample size from one of the villages swamping the variation. For complete data see Table 6
+Human,149,,,0.12751677852349,,Anopheles,marajoara,,Vegetation,Amapa Brazil,Zimmerman et al. 2006,Table 6,See first line
+Human,83,,,0.265060240963855,,Anopheles,darlingi,,Under House,Amapa Brazil,Zimmerman et al. 2006,Table 6,See first line
+Human,139,,,0.0503597122302158,,Anopheles,darlingi,,Vegetation,Amapa Brazil,Zimmerman et al. 2006,Table 6,See first line
+Human,305,,,0.0295081967213115,,Anopheles,nuneztovari,,Under House,Amapa Brazil,Zimmerman et al. 2006,Table 6,See first line
+Human,127,,,0.0551181102362205,,Anopheles,nuneztovari,,Vegetation,Amapa Brazil,Zimmerman et al. 2006,Table 6,See first line
+Human,96,,,0.0104166666666667,,Anopheles,triannulatus,,Under House,Amapa Brazil,Zimmerman et al. 2006,Table 6,See first line
+Human,56,,,0.0357142857142857,,Anopheles,triannulatus,,Vegetation,Amapa Brazil,Zimmerman et al. 2006,Table 6,See first line
+Human,11,,,0.0909090909090909,,Anopheles,intermedius,,Under House,Amapa Brazil,Zimmerman et al. 2006,Table 6,See first line
+Human,5,,,0,,Anopheles,intermedius,,Vegetation,Amapa Brazil,Zimmerman et al. 2006,Table 6,See first line
+Human,0.68,,,,,Anopheles,darlingi,,Indoors,Iquitos Peru,Moreno et al. 2017,Table 5,"Lots of data here, but just took median from the medians of the three locations across years"
+Human,38,,,0.95,,Aedes,albopictus,,Indoors,Surat Thani Thailand,Ponlawat and Harrington 2005,Table 4,"Forage ratio (scaling biting by host abundance) given in Table 5 and 6 for Aedes Aegypti. This is actually what I want for the model, so taking these data only (not the HMI given in Table 3). For aides albopictus these are not given (different locations where they didn’t seem to measure host abundance) so just taking H. Collection of mosquitoes took place indoors and under houses. Not sure how to code this. Maybe convert Under and Indoors across studies to one option and Outside as a second"
+Human,61,,,0.94,,Aedes,albopictus,,Indoors,Phatthalung Thailand,Ponlawat and Harrington 2005,Table 4,See first line
+Human,107,,,0.89,3.4,Aedes,aegypti,,Indoors,Nakhon Sawan Thailand,Ponlawat and Harrington 2005,Table 5,See first line
+Human,379,,,0.88,2.9,Aedes,aegypti,,Indoors,Nakhon Ratchasima Thailand,Ponlawat and Harrington 2005,Table 6,See first line
+Human,130,,,0.935,,Aedes,albopictus,,Indoors,Yaounde Cameroon,Kamgang et al. 2012,Table 1,Indoors is slightly loose here but the mosquitoes seemed to be collected within the grounds of human settlements and definitely not in the surrounding vegetation. More evidence that maybe Inside should be more general and compared to Outside
+Human,26,,,0.839,,Aedes,albopictus,,Indoors,Yaounde Cameroon,Kamgang et al. 2012,Table 1,See first line
+Human,110,,,,1.5,Aedes,albopictus,,Choice,,Delatte et al. 2010,Table 1,Actual feeding preference experiment. Provides regression coefficients from the *I think* relative preference of humans vs some other animal. Because there were the same number of each (1) this is essentially a direct measure of the feeding ratio. Sample size taken from text page 251
+Human,110,,,,1.8,Aedes,albopictus,,Choice,,Delatte et al. 2010,Table 1,See first line
+Human,110,,,,4.6,Aedes,albopictus,,Choice,,Delatte et al. 2010,Table 1,See first line
+Human,110,,,,11.1,Aedes,albopictus,,Choice,,Delatte et al. 2010,Table 1,See first line
+Human,110,,,,6.3,Aedes,albopictus,,Choice,,Delatte et al. 2010,Table 1,See first line
+Human,110,,,,6.3,Aedes,albopictus,,Choice,,Delatte et al. 2010,Table 1,See first line
+Human,110,,,,5.6,Aedes,albopictus,,Choice,,Delatte et al. 2010,Table 1,See first line
+Human,110,,,,3.0,Aedes,albopictus,,Choice,,Delatte et al. 2010,Table 1,See first line
+Human,110,,,,6.6,Aedes,albopictus,,Choice,,Delatte et al. 2010,Table 1,See first line
+Human,636,,,0.9088,,Aedes,aegypti,,Indoors,Kolkata India,Tandon and Ray 2000,Table 1,"Sampling took place indoors and outdoors in an urban garden. Still in major human population density, but clearly in a place with less human abundance. For now calling outdoors “vegetation” to correspond to the other study"
+Human,186,,,0.870,,Aedes,albopictus,,Indoors,Kolkata India,Tandon and Ray 2000,Table 1,See first line
+Human,156,,,0.7565,,Aedes,aegypti,,Outdoors ,Kolkata India,Tandon and Ray 2000,Table 2,See first line
+Human,378,,,0.8066,,Aedes,albopictus,,Outdoors ,Kolkata India,Tandon and Ray 2000,Table 2,See first line
+Human,909,,,0.24,,Aedes,albopictus,,Outdoors ,Raleigh NC USA,Richards et al. 2006,Table 2,"Gives percent from many other hosts, but just focusing on human biting for now. Gives raw percent of blood from humans but also calculates relative preference of humans vs cats and humans vs dogs. Taking both of these data points as well in the column Feeding_Ratio. Ick, another type of sampling to complicate matters: “Mosquitoes were collected from shaded areas containing tall grass, herbaceous plants, or other knee-high vegetation” Not exactly sure what to do about this… Calling it outdoors for now"
+Human,407,,,0.08,,Aedes,triseriatus,,Outdoors ,Raleigh NC USA,Richards et al. 2006,Table 2,See first line
+Human,782,,,0.03,,Aedes,vexans,,Outdoors ,Raleigh NC USA,Richards et al. 2006,Table 2,See first line
+Human,909,,,,0.24390243902439,Aedes,albopictus,,Outdoors ,Raleigh NC USA,Richards et al. 2006,Table 4,"Lots of different estimates here so a bit unclear which one to use. Going with the per-hectare neighborhood wide estimate because this is closest to what I will be assuming for my model, especially for a mosquito like albopictus. Note how the answer flips for Cats when using neighborhood vs residence specific estimates"
+Human,909,,,,0.384615384615385,Aedes,albopictus,,Outdoors ,Raleigh NC USA,Richards et al. 2006,Table 4,See fourth line
+Human,400,,,0.17,,Haemagogus,janthinomys,,Outdoors ,"Atalaia, Brazil",Alencar et al. 2005,Table 1,"Mosquitoes collected from natural areas from 11 sites across southeastern Brazil, only blood tested from a minimal number of species. Here only took the aggregate across all 11 locations. Only took mosquitoes that had a blood meal recorded"
+Human,17,,,0.117647058823529,,Haemagogus,capricornii,,Outdoors ,"Caxias, Brazil",Alencar et al. 2008,Table 1,"Mosquitoes collected from natural areas from 4 sites in southern Brazil, only blood tested from a minimal number of species. Only took data for mosquitoes that had a blood meal react"
+Human,17,,,0.117647058823529,,Haemagogus,capricornii,,Outdoors ,"Tingua, Brazil",Alencar et al. 2008,Table 1,See first line
+Human,8,,,0.25,,Haemagogus,leucocelaenus,,Outdoors ,"Tingua, Brazil",Alencar et al. 2008,Table 1,See first line
+Human,60,,,0.233333333333333,,Haemagogus,leucocelaenus,,Outdoors ,"Itatiaia, Brazil",Alencar et al. 2008,Table 1,See first line
+Human,12,,,0.166666666666667,,Haemagogus,leucocelaenus,,Outdoors ,"Niquelandia, Brazil",Alencar et al. 2008,Table 1,See first line

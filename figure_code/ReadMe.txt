@@ -1,0 +1,6 @@
+The scripts in this folder contain the code used for creating the figures presented in the manuscript. All figures were created by: First, parsing and compiling output from model simulations -- this is done in explore_results.R; Second, using the summarized output to create the figures -- this is done in manuscript_figures.R and manuscript_supp_figures.R
+
+Unfortunately the saved Rds files are too large to upload to GitHub, but please email me if you would like some saved output.
+
+manuscript_figures_details.R contains a description of the parameters used in the simulations to create the output that is summarized for each figure, which makes it possible to recreate the manuscript figures. Be warned however that a simulation for a single landscape with one set of parameters can take about 12 hours, so this is not exactly practical; I ran these simulations on a cluster, split into many many individual jobs (hence explore_results.R to compile individual model runs into sensible data frames for plotting)
+ 
