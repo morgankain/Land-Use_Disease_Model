@@ -873,8 +873,47 @@ R0.home.s.gg.t.f$land <- round(R0.home.s.gg.t.f$land, 2)
 
 ## Simply a snapshot from google earth, with a box drawn over the relevant region
 
+###########################
+## Figure S10: Examine the number of infected Ae aegypti and Ae albopictus to get to the bottom of Figure 2
+###########################
+
+(
+  h_m_mat.home.s.gg.t.f %>% group_by(Mosquito, dens) %>% 
+    filter() %>% 
+      filter(
+       X >= 1
+     , X <= 11
+     , Y >= 1
+     , Y <= 11
+    ) %>% 
+    summarize(
+      H_to_M = mean(H_to_M)
+        ) %>% mutate(
+          Mosquito = mapvalues(Mosquito
+            , from = c("aegypti", "albopictus")
+            , to   = c("Aedes aegypti", "Aedes albopictus"))
+        )
+) %>% {
+  ggplot(., aes(dens, H_to_M)) + 
+    geom_line(aes(linetype = Mosquito)) +
+    scale_linetype_manual(values = c("solid", "dotted", "dotdash")) +
+    xlab("Human population density") +
+    ylab("Average Number of Infected
+Mosquitoes by the Human Source Infection") + 
+ theme(
+    legend.key.size = unit(.55, "cm")
+  , legend.title = element_text(size = 14)
+  , legend.text = element_text(size = 13)
+  , legend.background = element_blank()
+  , axis.text.x = element_text(size = 15) 
+ # , axis.title.y = element_text(size = 12)
+  , axis.text.y = element_text(size = 15) 
+  , legend.position = c(0.85, 0.85)
+  )
+}
+
 #########################
-## Figure S10: YF patterns across human density (same as main text dengue figure)
+## Figure S11: YF patterns across human density (same as main text dengue figure)
 #########################
 
 (
@@ -961,7 +1000,7 @@ Infection on Humans") +
 }
 
 #########################
-## Figure S11: Exploration of patterns of Yellow Fever across landscapes
+## Figure S12: Exploration of patterns of Yellow Fever across landscapes
 #########################
 
 ## Top panels are maps 
@@ -1092,7 +1131,7 @@ Infection on Humans") +
 }
 
 #########################
-## Figures S12: Tradeoffs between the diseases and descriptions of FOI as a function of landscape characteristics 
+## Figures S13: Tradeoffs between the diseases and descriptions of FOI as a function of landscape characteristics 
 #########################
 
 #####
@@ -1268,13 +1307,13 @@ ggplot(
   )
 
 #########################
-## Figures S13: Stacked FOI (absolute instead of relative as is shown in the main text)
+## Figures S14: Stacked FOI (absolute instead of relative as is shown in the main text)
 #########################
 
 ## See main text Figure 6
 
 #########################
-## Figures S14: Supplemental version of relative risk with a single infection arising on the landscape
+## Figures S15: Supplemental version of relative risk with a single infection arising on the landscape
 #########################
 
 (FOI_on.s.f %>%
